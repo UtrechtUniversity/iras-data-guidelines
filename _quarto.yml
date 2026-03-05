@@ -58,7 +58,7 @@ format:
     theme: cosmo
     link-external-icon: true
     link-external-newwindow: true
-    link-external-filter: 'iras_data_guidelines' #check how to filter external links exactly so they get an icon and automatically open in a new window
+    link-external-filter: 'quarto_book' #check how to filter external links exactly so they get an icon and automatically open in a new window
   pdf:
     documentclass: scrreprt
 
