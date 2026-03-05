@@ -58,7 +58,7 @@ format:
     theme: cosmo
     link-external-icon: true
     link-external-newwindow: true
-    link-external-filter: 'pages.github.io' #check how to filter external links exactly so they get an icon and automatically open in a new window
+    link-external-filter: '^(quarto_book|iras-data-guidelines|pages\.github\.io)$' #check how to filter external links exactly so they get an icon and automatically open in a new window
   pdf:
     documentclass: scrreprt
 
