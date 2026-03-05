@@ -1,0 +1,35 @@
+# Importance of good research data management (RDM) {#sec-intro_importance}
+
+RDM refers to how you handle, organize, and structure your research data throughout the research process. Good RDM is essential for ensuring the integrity and validity of research, facilitating reproducibility and promoting collaboration. It also helps protect sensitive information and comply with regulations. Key reasons why good RDM is important include:
+
+-   **Ensuring data quality and security:** proper RDM prevents data loss, protects against unauthorized access, and ensures that research results are reliable and valid.
+
+-   **Increasing efficiency:** organizing, documenting, and structuring data saves time and resources by making it easier to find, understand and use data. Not only for others, but also for your future self.
+
+-   **Enabling reproducibility and validation:** well-managed, documented data allows other researchers to verify findings, contributing to the overall reliability and validity of scientific knowledge.
+
+-   **Allowing for reuse and collaboration:** making data understandable for others facilitates collaboration by enabling researchers to easily share and access data, accelerating scientific discovery.
+
+-   **Compliance and integrity:** good RDM ensures compliance with legal (e.g. GDPR when working with personal data), ethical, and funder requirements, and adheres to scientific integrity standards.
+
+-   **Improving visibility and impact:** making data FAIR (Findable, Accessible, Interoperable, Reusable) increases citation potential and the overall impact of research.
+
+Proper RDM covers the entire data life cycle, from initial planning and collection to storage, analysis, archiving, and sharing. It is essential for effective Open Science and FAIR practices.
+
+## Open Science
+
+In 2017, in order to accelerate and improve the realization of research results and their societal impact, the UU decided to make the transition to [Open Science](https://www.uu.nl/en/research/open-science). Open Science is about increasing the reuse of research, and making sure that publicly funded research is accessible to all. Key to achieving this is adhering to the FAIR principles: ensuring the findings and data behind research results are findable, accessible, interoperable, and reusable (@bruce2018).
+
+## FAIR principles
+
+In line with the UU’s commitment to Open Science, research data at IRAS is expected to follow the [FAIR principles](https://www.uu.nl/en/research/open-science/tracks/fair-data-and-software): 
+
+-   **F - Findable:** data and metadata should be findable, preferably digitally. 
+
+-   **A - Accessible:** data and metadata should be stored and maintained in such a manner that they are accessible and with clear terms of use.
+
+-   **I - Interoperable:** data and metadata data should be stored and maintained in such a manner that the data can be easily opened, exchanged and combined with other datasets.
+
+-   **R - Reusable:** data are licensed and described in a manner that facilitates its reuse by other users.
+
+Guidance on how to make your research data FAIR is highlighted in the recommendations provided below. To learn more see the RDM Support guide on [how to make your data FAIR](https://www.uu.nl/en/research/research-data-management/guides/how-to-make-your-data-fair).

@@ -1,0 +1,66 @@
+project:
+  type: book
+
+book:
+  title: "IRAS Research Data Management Guidelines"
+  author:
+    - "Inka Pieterson"
+    - "Marthe Knijff"
+    - "Zimbo Boudewijns"
+  date: last-modified
+  # cover-image: uu-logo-en-geenwitruimte.png
+  search: true
+  sidebar:
+    collapse-level: 1
+    logo: uu-logo-en-geenwitruimte.png
+
+  chapters:
+    - index.qmd
+    
+    - part: intro.qmd
+      chapters:
+      - intro_structure.qmd
+      - intro_importance.qmd
+      - intro_support.qmd
+      
+    - part: planning.qmd
+      chapters:
+      - planning_responsibilities.qmd
+      - planning_dmp.qmd
+      - planning_costs.qmd
+      
+    - part: during.qmd
+      chapters:
+      - during_collecting.qmd
+      - during_storing.qmd
+      - during_analyzing.qmd
+      
+    - part: after.qmd
+      chapters:
+      - after_archiving.qmd
+      - after_publishing.qmd
+      
+    - part: legal.qmd
+      chapters:
+      - legal_policies.qmd
+      - legal_personal.qmd
+      - legal_ic.qmd
+      - legal_....qmd
+      
+    - references.qmd
+    - appendix_a.qmd
+    - appendix_b.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+    link-external-icon: true
+    link-external-newwindow: true
+    link-external-filter: 'iras_data_guidelines' #check how to filter external links exactly so they get an icon and automatically open in a new window
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

@@ -1,0 +1,45 @@
+# Support {#sec-intro_support}
+
+## IRAS Data Management team
+
+The IRAS Data Management team is there to …
+
+<!--# Hier beschrijven wie wij zijn en wat we eventueel kunnen doen. Afgesproken dat @Zimbo dit zou doen. -->
+
+## UU RDM Support team
+
+In addition to the data management team at IRAS, the UU’s [Research Data Management (RDM) Support team](https://www.uu.nl/en/research/research-data-management) is there to support, advise and assist all researchers at UU with data management, data analysis, research software and code. A multidisciplinary network of data experts, software specialists and research engineers offer their expertise through training, tools, infrastructure, consultancy, and custom-made solutions at every stage of a research project. The support they provide complies with the FAIR principles: findable, accessible, interoperable and reusable. That way, it contributes to Open Science.
+
+::: {.callout-note icon="false"}
+### RDM Support workshops and guides
+
+To learn more about how to manage your research data and software, the UU’s RDM Support team offers several trainings and workshops, as well as walk-in events. For a complete event agenda, together with information on trainings and workshop, please refer to the [RDM Support website](https://www.uu.nl/en/research/research-data-management/workshops).
+
+[Reading guides](https://www.uu.nl/en/research/research-data-management/guides) on diverse RDM topics can also be found on the RDM Support website. The same goes for [tools](https://www.uu.nl/en/research/research-data-management/tools-services) that may be useful.
+:::
+
+## Other support services
+
+Besides the IRAS Data Management team and RDM Support team, the following support services exist at UU:
+
+-   [Research Support Office (RSO)](https://intranet.uu.nl/en/knowledgebase/research-support-office-veterinary-medicine?check_logged_in=1) of the Faculty of Veterinary Medicine: each faculty has an RSO. The RSO supports researchers throughout the year in the entire process of acquiring grants. For example: advice, information, reading, examples, budget assistance, data management, ethical questions, administrative data, etc.
+
+-   [Privacy Officers](https://intranet.uu.nl/en/knowledgebase/team-research-data-management-and-privacy?check_logged_in=1) of the Faculty of Veterinary Medicine: if you are starting a new project or research involving the use of personal data, exchanging data with a third party, or have questions about the secure storage of data or GDPR, please contact the Privacy Officers. You could also contact them for questions about the safe and responsible use of AI.
+
+## Contact
+
+In case you have questions about research data management, please reach out!
+
+::: {.callout-note icon="false"}
+### Contact details
+
+IRAS Data Management team: [info.irasdm\@uu.nl](mailto:info.irasdm@uu.nl)
+
+RDM Support team: [info.rdm\@uu.nl](mailto:info.rdm@uu.nl)
+
+RSO of the Faculty of Veterinary Medicine: [rso-dgk\@uu.nl](mailto:rso-dgk@uu.nl)
+
+Privacy Officers of the Faculty of Veterinary Medicine: [privacy-dgk\@uu.nl](mailto:privacy-dgk@uu.nl)
+:::
+
+<!--# Voor het IRAS DM-team is het plan om een algemeen e-mailadres aan te maken (bijv. info.irasdm@uunl). @Zimbo gaat hiernaar kijken volgens mij. Daarvoor moeten we nog wel beschrijven wat wij kunnen doen en we moeten een procedure bedenken hoe we de NPM gaan bijhouden. -->
