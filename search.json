@@ -1,0 +1,195 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "IRAS Research Data Management Guidelines",
+    "section": "",
+    "text": "Preface\nThis book serves as a guideline for research data management at the Institute for Risk Assessment Sciences (IRAS) of the Faculty of Veterinary Science. It outlines and defines a set of principles regarding research data and provides practical handlers for researchers in accordance with the regulations established in the Utrecht University (UU) Policy Framework for Research Data Management and the Research Data Management Guidelines developed by the Faculty of Veterinary Medicine. These guidelines can be used as a reference together with existing UU policies, faculty guidelines and/or procedures already established by research groups.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "Introduction",
+    "section": "",
+    "text": "The current chapter describes:\n\n1  Structure of this book: how this book is structured.\n2  Importance of good research data management (RDM): why good research data management is important.\n3  Support: where you can find support.",
+    "crumbs": [
+      "Introduction"
+    ]
+  },
+  {
+    "objectID": "intro_structure.html",
+    "href": "intro_structure.html",
+    "title": "1  Structure of this book",
+    "section": "",
+    "text": "The IRAS Research Data Management guidelines are structured according to the Research Data Life Cycle (Figure 1.1). This cycle can be broadly divided into three phases: before (i.e. planning and designing), during and after research. Research data management (RDM) activities and actions take place during all three phases.\n\n\n\n\n\n\nFigure 1.1: The Research Data Life Cycle",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Structure of this book</span>"
+    ]
+  },
+  {
+    "objectID": "intro_importance.html",
+    "href": "intro_importance.html",
+    "title": "2  Importance of good research data management (RDM)",
+    "section": "",
+    "text": "2.1 Open Science\nIn 2017, in order to accelerate and improve the realization of research results and their societal impact, the UU decided to make the transition to Open Science. Open Science is about increasing the reuse of research, and making sure that publicly funded research is accessible to all. Key to achieving this is adhering to the FAIR principles: ensuring the findings and data behind research results are findable, accessible, interoperable, and reusable (Bruce and Cordewener (2018)).",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Importance of good research data management (RDM)</span>"
+    ]
+  },
+  {
+    "objectID": "intro_importance.html#fair-principles",
+    "href": "intro_importance.html#fair-principles",
+    "title": "2  Importance of good research data management (RDM)",
+    "section": "2.2 FAIR principles",
+    "text": "2.2 FAIR principles\nIn line with the UU’s commitment to Open Science, research data at IRAS is expected to follow the FAIR principles: \n\nF - Findable: data and metadata should be findable, preferably digitally. \nA - Accessible: data and metadata should be stored and maintained in such a manner that they are accessible and with clear terms of use.\nI - Interoperable: data and metadata data should be stored and maintained in such a manner that the data can be easily opened, exchanged and combined with other datasets.\nR - Reusable: data are licensed and described in a manner that facilitates its reuse by other users.\n\nGuidance on how to make your research data FAIR is highlighted in the recommendations provided below. To learn more see the RDM Support guide on how to make your data FAIR.\n\n\n\n\nBruce, R., and B. Cordewener. 2018. “Open Science Is All Very Well but How Do You Make It FAIR in Practice?” LSE Impact of Social Sciences Blog. London School of Economics & Political Science. https://blogs.lse.ac.uk/impactofsocialsciences/2018/07/26/open-science-is-all-very-well-but-how-do-you-make-it-fair-in-practice/.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Importance of good research data management (RDM)</span>"
+    ]
+  },
+  {
+    "objectID": "intro_support.html",
+    "href": "intro_support.html",
+    "title": "3  Support",
+    "section": "",
+    "text": "3.1 IRAS Data Management team\nThe IRAS Data Management team is there to …",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Support</span>"
+    ]
+  },
+  {
+    "objectID": "intro_support.html#uu-rdm-support-team",
+    "href": "intro_support.html#uu-rdm-support-team",
+    "title": "3  Support",
+    "section": "3.2 UU RDM Support team",
+    "text": "3.2 UU RDM Support team\nIn addition to the data management team at IRAS, the UU’s Research Data Management (RDM) Support team is there to support, advise and assist all researchers at UU with data management, data analysis, research software and code. A multidisciplinary network of data experts, software specialists and research engineers offer their expertise through training, tools, infrastructure, consultancy, and custom-made solutions at every stage of a research project. The support they provide complies with the FAIR principles: findable, accessible, interoperable and reusable. That way, it contributes to Open Science.\n\n\n\n\n\n\nRDM Support workshops and guides\n\n\n\nTo learn more about how to manage your research data and software, the UU’s RDM Support team offers several trainings and workshops, as well as walk-in events. For a complete event agenda, together with information on trainings and workshop, please refer to the RDM Support website.\nReading guides on diverse RDM topics can also be found on the RDM Support website. The same goes for tools that may be useful.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Support</span>"
+    ]
+  },
+  {
+    "objectID": "intro_support.html#other-support-services",
+    "href": "intro_support.html#other-support-services",
+    "title": "3  Support",
+    "section": "3.3 Other support services",
+    "text": "3.3 Other support services\nBesides the IRAS Data Management team and RDM Support team, the following support services exist at UU:\n\nResearch Support Office (RSO) of the Faculty of Veterinary Medicine: each faculty has an RSO. The RSO supports researchers throughout the year in the entire process of acquiring grants. For example: advice, information, reading, examples, budget assistance, data management, ethical questions, administrative data, etc.\nPrivacy Officers of the Faculty of Veterinary Medicine: if you are starting a new project or research involving the use of personal data, exchanging data with a third party, or have questions about the secure storage of data or GDPR, please contact the Privacy Officers. You could also contact them for questions about the safe and responsible use of AI.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Support</span>"
+    ]
+  },
+  {
+    "objectID": "intro_support.html#contact",
+    "href": "intro_support.html#contact",
+    "title": "3  Support",
+    "section": "3.4 Contact",
+    "text": "3.4 Contact\nIn case you have questions about research data management, please reach out!\n\n\n\n\n\n\nContact details\n\n\n\nIRAS Data Management team: info.irasdm@uu.nl\nRDM Support team: info.rdm@uu.nl\nRSO of the Faculty of Veterinary Medicine: rso-dgk@uu.nl\nPrivacy Officers of the Faculty of Veterinary Medicine: privacy-dgk@uu.nl",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Support</span>"
+    ]
+  },
+  {
+    "objectID": "during_collecting.html",
+    "href": "during_collecting.html",
+    "title": "7  Collecting and documenting data",
+    "section": "",
+    "text": "7.1 Formdesk",
+    "crumbs": [
+      "During research",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Collecting and documenting data</span>"
+    ]
+  },
+  {
+    "objectID": "during_collecting.html#qualtrics",
+    "href": "during_collecting.html#qualtrics",
+    "title": "7  Collecting and documenting data",
+    "section": "7.2 Qualtrics",
+    "text": "7.2 Qualtrics",
+    "crumbs": [
+      "During research",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Collecting and documenting data</span>"
+    ]
+  },
+  {
+    "objectID": "during_collecting.html#data-formats",
+    "href": "during_collecting.html#data-formats",
+    "title": "7  Collecting and documenting data",
+    "section": "7.3 Data formats",
+    "text": "7.3 Data formats",
+    "crumbs": [
+      "During research",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Collecting and documenting data</span>"
+    ]
+  },
+  {
+    "objectID": "during_collecting.html#data-documentation",
+    "href": "during_collecting.html#data-documentation",
+    "title": "7  Collecting and documenting data",
+    "section": "7.4 Data documentation",
+    "text": "7.4 Data documentation",
+    "crumbs": [
+      "During research",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Collecting and documenting data</span>"
+    ]
+  },
+  {
+    "objectID": "during_storing.html",
+    "href": "during_storing.html",
+    "title": "8  Storing and organizing data",
+    "section": "",
+    "text": "8.1 Storing data",
+    "crumbs": [
+      "During research",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Storing and organizing data</span>"
+    ]
+  },
+  {
+    "objectID": "during_storing.html#organizing-data",
+    "href": "during_storing.html#organizing-data",
+    "title": "8  Storing and organizing data",
+    "section": "8.2 Organizing data",
+    "text": "8.2 Organizing data",
+    "crumbs": [
+      "During research",
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Storing and organizing data</span>"
+    ]
+  },
+  {
+    "objectID": "references.html",
+    "href": "references.html",
+    "title": "References",
+    "section": "",
+    "text": "Bruce, R., and B. Cordewener. 2018. “Open Science Is All Very Well\nbut How Do You Make It FAIR in Practice?” LSE Impact of\nSocial Sciences Blog. London School of Economics & Political\nScience. https://blogs.lse.ac.uk/impactofsocialsciences/2018/07/26/open-science-is-all-very-well-but-how-do-you-make-it-fair-in-practice/.",
+    "crumbs": [
+      "References"
+    ]
+  },
+  {
+    "objectID": "appendix_a.html",
+    "href": "appendix_a.html",
+    "title": "Appendix A",
+    "section": "",
+    "text": "List of mentioned tools",
+    "crumbs": [
+      "Appendix A"
+    ]
+  },
+  {
+    "objectID": "appendix_b.html",
+    "href": "appendix_b.html",
+    "title": "Appendix B",
+    "section": "",
+    "text": "Qualtrics tips & tricks",
+    "crumbs": [
+      "Appendix B"
+    ]
+  }
+]
