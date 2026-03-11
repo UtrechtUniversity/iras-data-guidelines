@@ -57,7 +57,7 @@
     "href": "intro_support.html",
     "title": "3  Support",
     "section": "",
-    "text": "3.1 IRAS Data Management team\nThe IRAS Data Management team is there to …",
+    "text": "3.1 IRAS Data Management team\n…",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Support</span>"
@@ -90,54 +90,96 @@
     "href": "intro_support.html#contact",
     "title": "3  Support",
     "section": "3.4 Contact",
-    "text": "3.4 Contact\nIn case you have questions about research data management, please reach out!\n\n\n\n\n\n\nContact details\n\n\n\nIRAS Data Management team: info.irasdm@uu.nl\nRDM Support team: info.rdm@uu.nl\nRSO of the Faculty of Veterinary Medicine: rso-dgk@uu.nl\nPrivacy Officers of the Faculty of Veterinary Medicine: privacy-dgk@uu.nl",
+    "text": "3.4 Contact\nIn case you have questions about research data management, please reach out!\n\n\n\n\n\n\nContact details\n\n\n\nIRAS Data Management team: iras_dm@uu.nl\nRDM Support team: info.rdm@uu.nl\nRSO of the Faculty of Veterinary Medicine: rso-dgk@uu.nl\nPrivacy Officers of the Faculty of Veterinary Medicine: privacy-dgk@uu.nl",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Support</span>"
     ]
   },
   {
+    "objectID": "planning.html",
+    "href": "planning.html",
+    "title": "Planning and designing",
+    "section": "",
+    "text": "The current chapter describes:\n4  Responsibilities: responsibilities of everyone involved in the research project.\n5  Data management plan (DMP): why you should write a DMP and how to do that.\n6  Costs: why you should estimate the costs that will be associated with data management and how to do that.",
+    "crumbs": [
+      "Planning and designing"
+    ]
+  },
+  {
+    "objectID": "planning_responsibilities.html",
+    "href": "planning_responsibilities.html",
+    "title": "4  Responsibilities",
+    "section": "",
+    "text": "The project leader (e.g. principal investigator) is responsible for …\nDepending on the project requirements, project members (e.g. researchers, PhD/MSc/BSc students, data managers, project managers, research assistants) should:\n\nsign a confidentiality agreement in case the project requires working with personal data;\nwrite a data management plan (DMP);\n…",
+    "crumbs": [
+      "Planning and designing",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Responsibilities</span>"
+    ]
+  },
+  {
+    "objectID": "planning_dmp.html",
+    "href": "planning_dmp.html",
+    "title": "5  Data management plan (DMP)",
+    "section": "",
+    "text": "RDM Support has instructions for developing a DMP: https://www.uu.nl/en/research/research-data-management/guides/data-management-planning.\nAt this page several questions on a DMP are answered, e.g.:\n\nWhat is a DMP? A DMP is a formal document you develop at the start of your research project which outlines all aspects of managing your data, both during and after your project.\nWhy do you need a DMP? Data management is all about making your work efficient and creating more value for your data for yourself and others, during and after your research, for instance by working towards FAIR(findable, accessible, interoperable, reusable) data.\nHow to write a data management paragraph? When writing a research grant proposal, funders, such as NWO, will often ask for a data management paragraph.\nHow to write a DMP? When writing your own DMP, you can:\n\nUse DMPonline to write your DMP: DMPonline contains templates from many different funders (e.g., NWO, ZonMw and ERC) as well as the institutional templates from participating universities. The template offered by Utrecht University is tailored to the requirements which are laid down in the University Policy Framework for Research Data And approved by both NWO and ZonMw.\nGet advice or feedback: If you are in need of advice or want your DMP reviewed, you can contact Research Data Management Support anytime, or click “Request feedback” in DMPonline. \nNeed more information or an introduction? Follow the online training ‘Learn to write your DMP’ or join our workshop Quick start to Research Data Management and ask all your questions.\n\n\nThe use of DMPonline is further explained at the following page: https://www.uu.nl/en/research/research-data-management/tools-services/tool-to-create-your-dmp-online.\nIRAS Data Management: our recommendation is to write a DMP at the start of your research project and use the applicable template in DMPonline. This contains several examples you can use for your project. If you have any questions or want to have your DMP reviewed, please contact RDM Support as outlined above. During onboarding this will be explained to new staff.",
+    "crumbs": [
+      "Planning and designing",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data management plan (DMP)</span>"
+    ]
+  },
+  {
+    "objectID": "planning_costs.html",
+    "href": "planning_costs.html",
+    "title": "6  Costs",
+    "section": "",
+    "text": "Research data management will likely incur financial costs. In particular, the costs of data storage, archiving and publishing can be high. In some cases, these costs may not be covered by the university, and thus they will need to be obtained through funding or via other routes during the planning phase of the project. Luckily, most funders consider the costs for data management eligible for funding.\nRDM Support has developed a guide to estimate the costs of data management for each research phase and research activity. The costs of research data management will be a lot lower when you plan well ahead, instead of applying it retrospectively, both in terms of time and money.\nCheck out the RSO intranet page for help with the funding and grant acquisition process.",
+    "crumbs": [
+      "Planning and designing",
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Costs</span>"
+    ]
+  },
+  {
+    "objectID": "during.html",
+    "href": "during.html",
+    "title": "During research",
+    "section": "",
+    "text": "The current chapter describes:\n7  Collecting data: what tools the UU offers to collect research data, how to use them and what to pay attention to in terms of data management.\n8  Storing and organizing data: how best to store and organize your research data during your research project.\n9  Documenting data: why documenting your data is important and how to do this.\n10  Analyzing data: where best to analyze your data and how to use GitHub for version control.",
+    "crumbs": [
+      "During research"
+    ]
+  },
+  {
     "objectID": "during_collecting.html",
     "href": "during_collecting.html",
-    "title": "7  Collecting and documenting data",
+    "title": "7  Collecting data",
     "section": "",
-    "text": "7.1 Formdesk",
+    "text": "7.1 Formdesk\n…",
     "crumbs": [
       "During research",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Collecting and documenting data</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Collecting data</span>"
+    ]
+  },
+  {
+    "objectID": "during_collecting.html#informed-consent",
+    "href": "during_collecting.html#informed-consent",
+    "title": "7  Collecting data",
+    "section": "7.2 Informed consent",
+    "text": "7.2 Informed consent\n…",
+    "crumbs": [
+      "During research",
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Collecting data</span>"
     ]
   },
   {
     "objectID": "during_collecting.html#qualtrics",
     "href": "during_collecting.html#qualtrics",
-    "title": "7  Collecting and documenting data",
-    "section": "7.2 Qualtrics",
-    "text": "7.2 Qualtrics",
+    "title": "7  Collecting data",
+    "section": "7.3 Qualtrics",
+    "text": "7.3 Qualtrics\nIf you want to create a survey that will collect personal data, the UU has one option and that is Qualtrics. Qualtrics is free of charge and can be used to set up surveys, collect data, distribute and analyze responses. Issues such as privacy and security are well taken care of. For further information please refer to the Qualtrics intranet page of the UU. It tells more about privacy, rules of conduct, non-standard UU modules in Qualtrics and more.\nYou can log into the Qualtrics website with your Solis-id (or UU email address), Solis-password and two-factor authentication. Once you have logged into Qualtrics, you can create a new survey via the Projects page. The Project page shows all surveys you have created (or that have been shared with you). You can collaborate on surveys with others by sharing them.\nAppendix B offers recommendations and tips and tricks for building a Qualtrics survey in a FAIR and structured way, while keeping data quality and privacy in mind. This may take some investment upfront, but will pay off in the end.",
     "crumbs": [
       "During research",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Collecting and documenting data</span>"
-    ]
-  },
-  {
-    "objectID": "during_collecting.html#data-formats",
-    "href": "during_collecting.html#data-formats",
-    "title": "7  Collecting and documenting data",
-    "section": "7.3 Data formats",
-    "text": "7.3 Data formats",
-    "crumbs": [
-      "During research",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Collecting and documenting data</span>"
-    ]
-  },
-  {
-    "objectID": "during_collecting.html#data-documentation",
-    "href": "during_collecting.html#data-documentation",
-    "title": "7  Collecting and documenting data",
-    "section": "7.4 Data documentation",
-    "text": "7.4 Data documentation",
-    "crumbs": [
-      "During research",
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Collecting and documenting data</span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Collecting data</span>"
     ]
   },
   {
@@ -145,7 +187,7 @@
     "href": "during_storing.html",
     "title": "8  Storing and organizing data",
     "section": "",
-    "text": "8.1 Storing data",
+    "text": "8.1 Storing data\n…",
     "crumbs": [
       "During research",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Storing and organizing data</span>"
@@ -156,10 +198,118 @@
     "href": "during_storing.html#organizing-data",
     "title": "8  Storing and organizing data",
     "section": "8.2 Organizing data",
-    "text": "8.2 Organizing data",
+    "text": "8.2 Organizing data\n\n8.2.1 Folder structures\n…\n\n\n8.2.2 File naming conventions\n…\n\n\n8.2.3 Data formats\nThere is a lot of diversity in data formats. When possible, it is important to choose for future-proof data formats (i.e. open, standardized formats) to be able to continue reading, displaying and processing research data in the future.\n…",
     "crumbs": [
       "During research",
       "<span class='chapter-number'>8</span>  <span class='chapter-title'>Storing and organizing data</span>"
+    ]
+  },
+  {
+    "objectID": "during_documenting.html",
+    "href": "during_documenting.html",
+    "title": "9  Documenting data",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "During research",
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Documenting data</span>"
+    ]
+  },
+  {
+    "objectID": "during_analyzing.html",
+    "href": "during_analyzing.html",
+    "title": "10  Analyzing data",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "During research",
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Analyzing data</span>"
+    ]
+  },
+  {
+    "objectID": "after.html",
+    "href": "after.html",
+    "title": "After research",
+    "section": "",
+    "text": "The current chapter describes:\n11  Archiving data: how best to archive your research data after your research project.\n12  Publishing data: how best to publish your research data after your research project.",
+    "crumbs": [
+      "After research"
+    ]
+  },
+  {
+    "objectID": "after_archiving.html",
+    "href": "after_archiving.html",
+    "title": "11  Archiving data",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "After research",
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Archiving data</span>"
+    ]
+  },
+  {
+    "objectID": "after_publishing.html",
+    "href": "after_publishing.html",
+    "title": "12  Publishing data",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "After research",
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Publishing data</span>"
+    ]
+  },
+  {
+    "objectID": "privacy.html",
+    "href": "privacy.html",
+    "title": "Data security and privacy",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "Data security and privacy"
+    ]
+  },
+  {
+    "objectID": "privacy_legislation.html",
+    "href": "privacy_legislation.html",
+    "title": "13  Legal instruments and agreements, policies and laws",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "Data security and privacy",
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Legal instruments and agreements, policies and laws</span>"
+    ]
+  },
+  {
+    "objectID": "privacy_personal.html",
+    "href": "privacy_personal.html",
+    "title": "14  Handling personal data",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "Data security and privacy",
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Handling personal data</span>"
+    ]
+  },
+  {
+    "objectID": "privacy_security.html",
+    "href": "privacy_security.html",
+    "title": "15  Data security",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "Data security and privacy",
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Data security</span>"
+    ]
+  },
+  {
+    "objectID": "privacy_....html",
+    "href": "privacy_....html",
+    "title": "16  …",
+    "section": "",
+    "text": "…",
+    "crumbs": [
+      "Data security and privacy",
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>...</span>"
     ]
   },
   {
@@ -177,7 +327,7 @@
     "href": "appendix_a.html",
     "title": "Appendix A",
     "section": "",
-    "text": "List of mentioned tools",
+    "text": "List of mentioned tools\n…",
     "crumbs": [
       "Appendix A"
     ]
@@ -187,7 +337,7 @@
     "href": "appendix_b.html",
     "title": "Appendix B",
     "section": "",
-    "text": "Qualtrics tips & tricks",
+    "text": "Qualtrics tips & tricks\n…",
     "crumbs": [
       "Appendix B"
     ]
