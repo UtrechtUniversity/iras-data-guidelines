@@ -1,0 +1,11 @@
+# Data security and privacy
+
+...
+
+<!--# Nog even kijken hoe dit hoofdstuk precies vorm te geven. In de overige hoofdstukken zal ook al ingegaan worden op hoe om te gaan met persoonlijke data bijvoorbeeld. -->
+
+<!--# Het meeste zal al in de huidige guidelines staan, maar misschien wel goed om dat in de vernieuwde guidelines te integreren zodat het allemaal bij elkaar staat? -->
+
+<!--# Aan dit hoofdstuk waarschijnlijk ook iets van een formulier (‘confidentiality agreement’) toevoegen dat medewerkers kunnen downloaden en ondertekenen (net als in de huidige guidelines). -->
+
+<!--# Hier ook ergens het Data Privacy Handbook van RDM Support noemen: “RDM Support has developed a guide on handling personal data in scientific research: UU Data Privacy Handbook.” -->

@@ -1,0 +1,5 @@
+# Documenting data {#sec-during_documenting}
+
+...
+
+<!--# Moet nog geschreven worden (gaat over wat gedocumenteerd moet worden, metadata, etc.). -->

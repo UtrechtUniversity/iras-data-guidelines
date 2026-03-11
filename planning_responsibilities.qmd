@@ -1,1 +1,13 @@
-# Responsibilities
+# Responsibilities {#sec-planning_responsibilities}
+
+The **project leader** (e.g. principal investigator) is responsible for …
+
+Depending on the project requirements, **project members** (e.g. researchers, PhD/MSc/BSc students, data managers, project managers, research assistants) should:
+
+-   sign a confidentiality agreement in case the project requires working with personal data;
+
+-   write a data management plan (DMP);
+
+-   …
+
+<!--# Dit stuk moet nog aangevuld worden. -->

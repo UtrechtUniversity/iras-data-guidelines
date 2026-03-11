@@ -33,6 +33,7 @@ book:
       chapters:
       - during_collecting.qmd
       - during_storing.qmd
+      - during_documenting.qmd
       - during_analyzing.qmd
       
     - part: after.qmd
@@ -40,12 +41,12 @@ book:
       - after_archiving.qmd
       - after_publishing.qmd
       
-    - part: legal.qmd
+    - part: privacy.qmd
       chapters:
-      - legal_policies.qmd
-      - legal_personal.qmd
-      - legal_ic.qmd
-      - legal_....qmd
+      - privacy_legislation.qmd
+      - privacy_personal.qmd
+      - privacy_security.qmd
+      - privacy_....qmd
       
     - references.qmd
     - appendix_a.qmd

@@ -1,1 +1,5 @@
-# Analyzing data
+# Analyzing data {#sec-during_analyzing}
+
+...
+
+<!--# Bijv. O drive, VREs (SURF Research Cloud/SURF SANE (UU), anDREa (UMCU)), GitHub, etc. -->

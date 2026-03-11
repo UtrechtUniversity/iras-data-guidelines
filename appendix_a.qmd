@@ -1,3 +1,7 @@
 # Appendix A {.unnumbered}
 
 ## List of mentioned tools
+
+...
+
+<!--# I.e. list with links to Qualtrics, Yoda, DMPonline and all other tools that have been mentioned in these guidelines. -->

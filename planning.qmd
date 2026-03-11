@@ -1,1 +1,9 @@
-# Planning and designing
+# Planning and designing {#sec-planning}
+
+The current chapter describes:
+
+@sec-planning_responsibilities: responsibilities of everyone involved in the research project.
+
+@sec-planning_dmp: why you should write a DMP and how to do that.
+
+@sec-planning_costs: why you should estimate the costs that will be associated with data management and how to do that.

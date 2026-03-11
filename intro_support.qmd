@@ -2,7 +2,7 @@
 
 ## IRAS Data Management team
 
-The IRAS Data Management team is there to …
+...
 
 <!--# Hier beschrijven wie wij zijn en wat we eventueel kunnen doen. Afgesproken dat @Zimbo dit zou doen. -->
 
@@ -33,7 +33,7 @@ In case you have questions about research data management, please reach out!
 ::: {.callout-note icon="false"}
 ### Contact details
 
-IRAS Data Management team: [info.irasdm\@uu.nl](mailto:info.irasdm@uu.nl)
+IRAS Data Management team: [iras_dm\@uu.nl](mailto:info.irasdm@uu.nl)
 
 RDM Support team: [info.rdm\@uu.nl](mailto:info.rdm@uu.nl)
 
@@ -42,4 +42,4 @@ RSO of the Faculty of Veterinary Medicine: [rso-dgk\@uu.nl](mailto:rso-dgk@uu.nl
 Privacy Officers of the Faculty of Veterinary Medicine: [privacy-dgk\@uu.nl](mailto:privacy-dgk@uu.nl)
 :::
 
-<!--# Voor het IRAS DM-team is het plan om een algemeen e-mailadres aan te maken (bijv. info.irasdm@uunl). @Zimbo gaat hiernaar kijken volgens mij. Daarvoor moeten we nog wel beschrijven wat wij kunnen doen en we moeten een procedure bedenken hoe we de NPM gaan bijhouden. -->
+<!--# De IRAS-DM mailbox is inmiddels aangemaakt. We moeten nog wel beschrijven wat wij kunnen doen en we moeten een procedure bedenken hoe we de NPM gaan bijhouden. -->

@@ -1,1 +1,7 @@
-# After research
+# After research {#sec-after}
+
+The current chapter describes:
+
+@sec-after_archiving: how best to archive your research data after your research project.
+
+@sec-after_publishing: how best to publish your research data after your research project.

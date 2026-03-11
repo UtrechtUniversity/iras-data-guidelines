@@ -1,5 +1,25 @@
-# Storing and organizing data
+# Storing and organizing data {#sec-during_storing}
+
+<!--# Inka is bezig met dit stuk. -->
 
 ## Storing data
 
+...
+
 ## Organizing data
+
+### Folder structures
+
+...
+
+### File naming conventions
+
+...
+
+### Data formats
+
+There is a lot of diversity in data formats. When possible, it is important to choose for future-proof data formats (i.e. open, standardized formats) to be able to continue reading, displaying and processing research data in the future.
+
+...
+
+<!--# Moet nog aangevuld worden (bijv. CSV i.p.v. XLSX, zie ook: https://danstraining.moodlecloud.com/mod/page/view.php?id=272). -->
