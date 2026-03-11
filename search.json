@@ -101,7 +101,7 @@
     "href": "planning.html",
     "title": "Planning and designing",
     "section": "",
-    "text": "The current chapter describes:\n4  Responsibilities: responsibilities of everyone involved in the research project.\n5  Data management plan (DMP): why you should write a DMP and how to do that.\n6  Costs: why you should estimate the costs that will be associated with data management and how to do that.",
+    "text": "The current chapter describes:\n\n4  Responsibilities: responsibilities of everyone involved in the research project.\n5  Data management plan (DMP): why you should write a DMP and how to do that.\n6  Costs: why you should estimate the costs that will be associated with data management and how to do that.",
     "crumbs": [
       "Planning and designing"
     ]
@@ -144,7 +144,7 @@
     "href": "during.html",
     "title": "During research",
     "section": "",
-    "text": "The current chapter describes:\n7  Collecting data: what tools the UU offers to collect research data, how to use them and what to pay attention to in terms of data management.\n8  Storing and organizing data: how best to store and organize your research data during your research project.\n9  Documenting data: why documenting your data is important and how to do this.\n10  Analyzing data: where best to analyze your data and how to use GitHub for version control.",
+    "text": "The current chapter describes:\n\n7  Collecting data: what tools the UU offers to collect research data, how to use them and what to pay attention to in terms of data management.\n8  Storing and organizing data: how best to store and organize your research data during your research project.\n9  Documenting data: why documenting your data is important and how to do this.\n10  Analyzing data: where best to analyze your data and how to use GitHub for version control.",
     "crumbs": [
       "During research"
     ]
@@ -231,7 +231,7 @@
     "href": "after.html",
     "title": "After research",
     "section": "",
-    "text": "The current chapter describes:\n11  Archiving data: how best to archive your research data after your research project.\n12  Publishing data: how best to publish your research data after your research project.",
+    "text": "The current chapter describes:\n\n11  Archiving data: how best to archive your research data after your research project.\n12  Publishing data: how best to publish your research data after your research project.",
     "crumbs": [
       "After research"
     ]
