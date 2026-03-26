@@ -2,6 +2,14 @@
 
 Research data management will likely incur financial costs. In particular, the costs of data storage, archiving and publishing can be high. In some cases, these costs may not be covered by the university, and thus they will need to be obtained through funding or via other routes during the planning phase of the project. Luckily, most funders consider the costs for data management eligible for funding.
 
-RDM Support has developed a [guide](https://www.uu.nl/en/research/research-data-management/guides/costs-of-data-management) to estimate the costs of data management for each research phase and research activity. The costs of research data management will be a lot lower when you plan well ahead, instead of applying it retrospectively, both in terms of time and money.
+::: {.callout-note icon="false"}
+## Support
 
-Check out the [RSO intranet page](https://intranet.uu.nl/en/knowledgebase/research-support-offices) for help with the funding and grant acquisition process.
+RDM Support has developed a [**guide**](https://www.uu.nl/en/research/research-data-management/guides/costs-of-data-management) **to estimate the costs of data management** for each research phase and research activity. The costs of research data management will be a lot lower when you plan well ahead, instead of applying it retrospectively, both in terms of time and money.
+
+Check out the [RSO intranet page](https://intranet.uu.nl/en/knowledgebase/research-support-offices) for help with the **funding and grant acquisition process**.
+:::
+
+## Our recommendation
+
+Our recommendation is to use RMD Support's [guide](https://www.uu.nl/en/research/research-data-management/guides/costs-of-data-management) to estimate the costs involved in research data management before you start your research project (e.g. when you start writing your DMP or applying for funding), because this will save you time and money in the end. If you need support or assistance, please contact [RDM Support](info.rdm@uu.nl).
