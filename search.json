@@ -14,7 +14,7 @@
     "href": "intro.html",
     "title": "Introduction",
     "section": "",
-    "text": "The current chapter describes:\n\n1  Structure of this book: how this book is structured.\n2  Importance of good research data management (RDM): why good research data management is important.\n3  Support: where you can find support.",
+    "text": "The current chapter describes:\n\n1  Structure of this book: how this book is structured.\n2  Importance of good research data management (RDM): why good research data management is important.\n?sec-intro_responsibilities: responsibilities of everyone involved in the research project.\n4  Support: where you can find support.",
     "crumbs": [
       "Introduction"
     ]
@@ -53,47 +53,58 @@
     ]
   },
   {
-    "objectID": "intro_support.html",
-    "href": "intro_support.html",
-    "title": "3  Support",
+    "objectID": "intro_responsibilities.html",
+    "href": "intro_responsibilities.html",
+    "title": "3  Responsibilities",
     "section": "",
-    "text": "3.1 IRAS Data Management team\n…",
+    "text": "The project leader (e.g. principal investigator) is responsible for …\nDepending on the project requirements, project members (e.g. researchers, PhD/MSc/BSc students, data managers, project managers, research assistants) should:\n\nsign a confidentiality agreement in case the project requires working with personal data;\nwrite a data management plan (DMP);\n…",
     "crumbs": [
       "Introduction",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Support</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Responsibilities</span>"
+    ]
+  },
+  {
+    "objectID": "intro_support.html",
+    "href": "intro_support.html",
+    "title": "4  Support",
+    "section": "",
+    "text": "4.1 IRAS Data Management team\nThe IRAS Data Management team is available for consultation on matters related to data management. We have a wide variety of expertise within the team, from data collection and cleaning to working with GIS data and setting up and hosting applications. While capacity within the team is limited when it comes to providing hands-on support, we will most of the time be able to provide advice on any data related questions you might have or bring you in to contact with the right people to help you further. You can contact us at iras_dm@uu.nl.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Support</span>"
     ]
   },
   {
     "objectID": "intro_support.html#uu-rdm-support-team",
     "href": "intro_support.html#uu-rdm-support-team",
-    "title": "3  Support",
-    "section": "3.2 UU RDM Support team",
-    "text": "3.2 UU RDM Support team\nIn addition to the data management team at IRAS, the UU’s Research Data Management (RDM) Support team is there to support, advise and assist all researchers at UU with data management, data analysis, research software and code. A multidisciplinary network of data experts, software specialists and research engineers offer their expertise through training, tools, infrastructure, consultancy, and custom-made solutions at every stage of a research project. The support they provide complies with the FAIR principles: findable, accessible, interoperable and reusable. That way, it contributes to Open Science.\n\n\n\n\n\n\nRDM Support workshops and guides\n\n\n\nTo learn more about how to manage your research data and software, the UU’s RDM Support team offers several trainings and workshops, as well as walk-in events. For a complete event agenda, together with information on trainings and workshop, please refer to the RDM Support website.\nReading guides on diverse RDM topics can also be found on the RDM Support website. The same goes for tools that may be useful.",
+    "title": "4  Support",
+    "section": "4.2 UU RDM Support team",
+    "text": "4.2 UU RDM Support team\nIn addition to the data management team at IRAS, the UU’s Research Data Management (RDM) Support team is there to support, advise and assist all researchers at UU with data management, data analysis, research software and code. A multidisciplinary network of data experts, software specialists and research engineers offer their expertise through training, tools, infrastructure, consultancy, and custom-made solutions at every stage of a research project. The support they provide complies with the FAIR principles: findable, accessible, interoperable and reusable. That way, it contributes to Open Science.\n\n\n\n\n\n\nRDM Support workshops and guides\n\n\n\nTo learn more about how to manage your research data and software, the UU’s RDM Support team offers several trainings and workshops, as well as walk-in events. For a complete event agenda, together with information on trainings and workshop, please refer to the RDM Support website.\nReading guides on diverse RDM topics can also be found on the RDM Support website. The same goes for tools that may be useful.",
     "crumbs": [
       "Introduction",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Support</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Support</span>"
     ]
   },
   {
     "objectID": "intro_support.html#other-support-services",
     "href": "intro_support.html#other-support-services",
-    "title": "3  Support",
-    "section": "3.3 Other support services",
-    "text": "3.3 Other support services\nBesides the IRAS Data Management team and RDM Support team, the following support services exist at UU:\n\nResearch Support Office (RSO) of the Faculty of Veterinary Medicine: each faculty has an RSO. The RSO supports researchers throughout the year in the entire process of acquiring grants. For example: advice, information, reading, examples, budget assistance, data management, ethical questions, administrative data, etc.\nPrivacy Officers of the Faculty of Veterinary Medicine: if you are starting a new project or research involving the use of personal data, exchanging data with a third party, or have questions about the secure storage of data or GDPR, please contact the Privacy Officers. You could also contact them for questions about the safe and responsible use of AI.",
+    "title": "4  Support",
+    "section": "4.3 Other support services",
+    "text": "4.3 Other support services\nBesides the IRAS Data Management team and RDM Support team, the following support services exist at UU:\n\nResearch Support Office (RSO) of the Faculty of Veterinary Medicine: each faculty has an RSO. The RSO supports researchers throughout the year in the entire process of acquiring grants. For example: advice, information, reading, examples, budget assistance, data management, ethical questions, administrative data, etc.\nPrivacy Officers of the Faculty of Veterinary Medicine: if you are starting a new project or research involving the use of personal data, exchanging data with a third party, or have questions about the secure storage of data or GDPR, please contact the Privacy Officers. You could also contact them for questions about the safe and responsible use of AI.",
     "crumbs": [
       "Introduction",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Support</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Support</span>"
     ]
   },
   {
     "objectID": "intro_support.html#contact",
     "href": "intro_support.html#contact",
-    "title": "3  Support",
-    "section": "3.4 Contact",
-    "text": "3.4 Contact\nIn case you have questions about research data management, please reach out!\n\n\n\n\n\n\nContact details\n\n\n\nIRAS Data Management team: iras_dm@uu.nl\nRDM Support team: info.rdm@uu.nl\nRSO of the Faculty of Veterinary Medicine: rso-dgk@uu.nl\nPrivacy Officers of the Faculty of Veterinary Medicine: privacy-dgk@uu.nl",
+    "title": "4  Support",
+    "section": "4.4 Contact",
+    "text": "4.4 Contact\nIn case you have questions about research data management, please reach out!\n\n\n\n\n\n\nContact details\n\n\n\nIRAS Data Management team: iras_dm@uu.nl\nRDM Support team: info.rdm@uu.nl\nRSO of the Faculty of Veterinary Medicine: rso-dgk@uu.nl\nPrivacy Officers of the Faculty of Veterinary Medicine: privacy-dgk@uu.nl",
     "crumbs": [
       "Introduction",
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Support</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Support</span>"
     ]
   },
   {
@@ -101,20 +112,9 @@
     "href": "planning.html",
     "title": "Planning and designing",
     "section": "",
-    "text": "The current chapter describes:\n\n4  Responsibilities: responsibilities of everyone involved in the research project.\n5  Data management plan (DMP): why you should write a DMP and how to do that.\n6  Costs: why you should estimate the costs that will be associated with data management and how to do that.",
+    "text": "The current chapter describes:\n\n5  Data management plan (DMP): why you should write a DMP and how to do that.\n6  Costs: why you should estimate the costs that will be associated with data management and how to do that.",
     "crumbs": [
       "Planning and designing"
-    ]
-  },
-  {
-    "objectID": "planning_responsibilities.html",
-    "href": "planning_responsibilities.html",
-    "title": "4  Responsibilities",
-    "section": "",
-    "text": "The project leader (e.g. principal investigator) is responsible for …\nDepending on the project requirements, project members (e.g. researchers, PhD/MSc/BSc students, data managers, project managers, research assistants) should:\n\nsign a confidentiality agreement in case the project requires working with personal data;\nwrite a data management plan (DMP);\n…",
-    "crumbs": [
-      "Planning and designing",
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Responsibilities</span>"
     ]
   },
   {
