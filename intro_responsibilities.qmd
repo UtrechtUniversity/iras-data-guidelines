@@ -1,4 +1,4 @@
-# Responsibilities {#sec-planning_responsibilities}
+# Responsibilities {#sec-intro_responsibilities}
 
 The **project leader** (e.g. principal investigator) is responsible for …
 
