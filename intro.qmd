@@ -4,4 +4,5 @@ The current chapter describes:
 
 -   @sec-intro_structure: how this book is structured.
 -   @sec-intro_importance: why good research data management is important.
+-   @sec-intro_responsibilities: responsibilities of everyone involved in the research project.
 -   @sec-intro_support: where you can find support.

@@ -21,11 +21,11 @@ book:
       chapters:
       - intro_structure.qmd
       - intro_importance.qmd
+      - intro_responsibilities.qmd
       - intro_support.qmd
       
     - part: planning.qmd
       chapters:
-      - planning_responsibilities.qmd
       - planning_dmp.qmd
       - planning_costs.qmd
       

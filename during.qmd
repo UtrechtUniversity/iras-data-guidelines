@@ -2,10 +2,10 @@
 
 The current chapter describes:
 
-@sec-during_collecting: what tools the UU offers to collect research data, how to use them and what to pay attention to in terms of data management.
+-   @sec-during_collecting: what tools the UU offers to collect research data, how to use them and what to pay attention to in terms of data management.
 
-@sec-during_storing: how best to store and organize your research data during your research project.
+-   @sec-during_storing: how best to store and organize your research data during your research project.
 
-@sec-during_documenting: why documenting your data is important and how to do this.
+-   @sec-during_documenting: why documenting your data is important and how to do this.
 
-@sec-during_analyzing: where best to analyze your data and how to use GitHub for version control.
+-   @sec-during_analyzing: where best to analyze your data and how to use GitHub for version control.
