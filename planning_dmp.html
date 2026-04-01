@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.553">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>IRAS Research Data Management Guidelines - 5&nbsp; Data management plan (DMP)</title>
+<title>5&nbsp; Data management plan (DMP) – IRAS Research Data Management Guidelines</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -31,16 +31,16 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
 <link href="./planning_costs.html" rel="next">
-<link href="./planning.html" rel="prev">
+<link href="./planning_responsibilities.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-2f5df379a58b258e96c21c0638c20c03.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-8da5b4427184b79ecddefad3d342027e.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -78,13 +78,13 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
   <nav class="quarto-secondary-nav">
     <div class="container-fluid d-flex">
-      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+      <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
         <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./planning.html">Planning and designing</a></li><li class="breadcrumb-item"><a href="./planning_dmp.html"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Data management plan (DMP)</span></a></li></ol></nav>
-        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
-      <button type="button" class="btn quarto-search-button" aria-label="" onclick="window.quartoOpenSearch();">
+      <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
         <i class="bi bi-search"></i>
       </button>
     </div>
@@ -119,7 +119,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="./intro.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Introduction</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-1" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -138,14 +138,8 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./intro_responsibilities.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Responsibilities</span></span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
   <a href="./intro_support.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Support</span></span></a>
+ <span class="menu-text"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Support</span></span></a>
   </div>
 </li>
       </ul>
@@ -154,11 +148,17 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="./planning.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Planning and designing</span></a>
-          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" aria-expanded="true" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-2" role="navigation" aria-expanded="true" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
       <ul id="quarto-sidebar-section-2" class="collapse list-unstyled sidebar-section depth1 show">  
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./planning_responsibilities.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Responsibilities</span></span></a>
+  </div>
+</li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="./planning_dmp.html" class="sidebar-item-text sidebar-link active">
@@ -177,7 +177,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="./during.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">During research</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-3" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -212,7 +212,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="./after.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">After research</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-4" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -235,7 +235,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="sidebar-item-container"> 
             <a href="./privacy.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Data security and privacy</span></a>
-          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" aria-expanded="false" aria-label="Toggle section">
+          <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-5" role="navigation" aria-expanded="false" aria-label="Toggle section">
             <i class="bi bi-chevron-right ms-2"></i>
           </a> 
       </div>
@@ -289,14 +289,8 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">Table of contents</h2>
-   
-  <ul>
-  <li><a href="#our-recommendation" id="toc-our-recommendation" class="nav-link active" data-scroll-target="#our-recommendation"><span class="header-section-number">5.1</span> Our recommendation</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -320,38 +314,24 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>RDM Support has instructions for <a href="https://www.uu.nl/en/research/research-data-management/guides/data-management-planning">developing a DMP</a>. At this page several questions about DMPs are answered, such as the ones below.</p>
-<div class="callout callout-style-default callout-note no-icon callout-titled">
-<div class="callout-header d-flex align-content-center">
-<div class="callout-icon-container">
-<i class="callout-icon no-icon"></i>
-</div>
-<div class="callout-title-container flex-fill">
-Questions and answers
-</div>
-</div>
-<div class="callout-body-container callout-body">
+<p>RDM Support has instructions for developing a DMP: <a href="https://www.uu.nl/en/research/research-data-management/guides/data-management-planning" class="uri">https://www.uu.nl/en/research/research-data-management/guides/data-management-planning</a>.</p>
+<p>At this page several questions on a DMP are answered, e.g.:</p>
 <ul>
-<li><p><strong>What is a DMP?</strong> A DMP is a formal document you develop at the start of your research project which outlines all aspects of managing your data, both during and after your project.</p></li>
-<li><p><strong>Why do you need a DMP?</strong> Data management is all about making your work efficient and creating more value for your data for yourself and others, during and after your research, for instance by working towards <a href="https://www.uu.nl/en/node/81201">FAIR</a> (findable, accessible, interoperable, reusable) data.</p></li>
-<li><p><strong>How to write a data management paragraph for a grant proposal?</strong> When writing a research grant proposal, funders, such as NWO, will often ask for a data management paragraph.</p></li>
-<li><p><strong>How to write a DMP?</strong> When writing your own DMP, you can:</p>
+<li><p>What is a DMP? A DMP&nbsp;is a formal document you develop at the start of your research project&nbsp;which outlines all aspects of managing your data, both during and after your project.</p></li>
+<li><p>Why do you need a DMP? Data management is all about making your work efficient and creating more value for your data for yourself and others, during and after your research, for instance by working towards <a href="https://www.uu.nl/en/node/81201">FAIR</a>(findable, accessible, interoperable, reusable) data.</p></li>
+<li><p>How to write a data management paragraph? When writing a research grant proposal, funders, such as NWO, will often ask for a data management paragraph.</p></li>
+<li><p>How to write a DMP? When writing your own DMP, you can:</p>
 <ul>
-<li><p><u>Use DMPonline to write your DMP:</u> DMPonline contains templates from many different funders (e.g., NWO, ZonMw and ERC) as well as the institutional templates from participating universities. The&nbsp;template offered by Utrecht University is tailored to the requirements which are laid down in the <a href="https://www.uu.nl/sites/default/files/university_policy_framework_for_research_data_utrecht_university_-_january_2016.pdf">University Policy Framework for Research Data</a> And approved by both NWO and ZonMw.</p></li>
-<li><p><u>Get advice or feedback:</u> if you are in need of advice or <a href="https://www.uu.nl/en/research/research-data-management/tools-services/data-management-plan-review">want your DMP reviewed</a>, you can contact&nbsp;Research Data Management Support anytime, or click “Request feedback” in DMPonline.</p></li>
-<li><p><u>Need more information or an introduction?</u> Follow the online training <a href="https://www.uu.nl/en/node/75857">Learn to write your DMP</a> or join the workshop <a href="https://www.uu.nl/en/research/research-data-management/training-workshops/quick-start-to-research-data-management">Quick start to Research Data Management</a> and ask all your questions.</p></li>
+<li><p>Use DMPonline to write your DMP: DMPonline contains templates from many different funders (e.g., NWO, ZonMw and ERC) as well as the institutional templates from participating universities. The&nbsp;template offered by Utrecht University is tailored to the requirements which are laid down in the <a href="https://www.uu.nl/sites/default/files/university_policy_framework_for_research_data_utrecht_university_-_january_2016.pdf">University Policy Framework for Research Data</a> And approved by both NWO and ZonMw.</p></li>
+<li><p>Get advice or feedback: If you are in need of advice or <a href="https://www.uu.nl/en/research/research-data-management/tools-services/data-management-plan-review">want your DMP reviewed</a>, you can contact&nbsp;Research Data Management Support anytime, or click “Request feedback” in DMPonline.&nbsp;</p></li>
+<li><p>Need more information or an introduction? Follow the online training <a href="https://www.uu.nl/en/node/75857">‘Learn to write your DMP’</a>&nbsp;or join our workshop <a href="https://www.uu.nl/en/research/research-data-management/training-workshops/quick-start-to-research-data-management">Quick start to Research Data Management</a> and ask all your questions.</p></li>
 </ul></li>
 </ul>
-</div>
-</div>
 <p>The use of DMPonline is further explained at the following page: <a href="https://www.uu.nl/en/research/research-data-management/tools-services/tool-to-create-your-dmp-online" class="uri">https://www.uu.nl/en/research/research-data-management/tools-services/tool-to-create-your-dmp-online</a>.</p>
-<section id="our-recommendation" class="level2" data-number="5.1">
-<h2 data-number="5.1" class="anchored" data-anchor-id="our-recommendation"><span class="header-section-number">5.1</span> Our recommendation</h2>
-<p>Our recommendation is to write a DMP at the start of your research project and use the applicable template in DMPonline. This contains several examples you can use for your project. If you have any questions or want to have your DMP reviewed, please contact <a href="info.rdm@uu.nl">RDM Support</a> as outlined above. During onboarding this will be explained to new staff.</p>
+<p><strong>IRAS Data Management</strong>: our recommendation is to write a DMP at the start of your research project and use the applicable template in DMPonline. This contains several examples you can use for your project. If you have any questions or want to have your DMP reviewed, please contact RDM Support as outlined above. During onboarding this will be explained to new staff.</p>
 <!--# Willen we ook nog een voorbeeld van een DMP toevoegen, zodat onderzoekers wat meer concrete handvatten hebben? Misschien is er een DMP van een IRAS-studie beschikbaar die als voorbeeld kan dienen? Dan hoeven we dit niet helemaal vanaf nul te doen? -->
 
 
-</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -389,18 +369,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -432,7 +401,27 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
       var filterRegex = new RegExp("(quarto_book|iras-data-guidelines|pages\.github\.io)");
@@ -440,7 +429,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
     // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
@@ -544,7 +533,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -772,8 +760,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="./planning.html" class="pagination-link" aria-label="Planning and designing">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text">Planning and designing</span>
+      <a href="./planning_responsibilities.html" class="pagination-link" aria-label="Responsibilities">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Responsibilities</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
