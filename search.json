@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "IRAS Research Data Management Guidelines",
     "section": "",
-    "text": "Preface\nThis book serves as a guideline for research data management at the Institute for Risk Assessment Sciences (IRAS) of the Faculty of Veterinary Science. It outlines and defines a set of principles regarding research data and provides practical handlers for researchers in accordance with the regulations established in the Utrecht University (UU) Policy Framework for Research Data Management and the Research Data Management Guidelines developed by the Faculty of Veterinary Medicine. These guidelines can be used as a reference together with existing UU policies, faculty guidelines and/or procedures already established by research groups.",
+    "text": "Preface\nThis book serves as a guideline for research data management at the Institute for Risk Assessment Sciences (IRAS) of the Faculty of Veterinary Science. It outlines and defines a set of principles regarding research data and provides practical handlers for researchers in accordance with the regulations established in the University Policy Framework for Research Data from Utrecht University (UU) and the Research Data Management Guidelines developed by the Faculty of Veterinary Medicine. These guidelines can be used as a reference together with existing UU policies, faculty guidelines and/or procedures already established by research groups.\n\n\n\n\n\n\nImportant\n\n\n\nPlease note that the UU’s University Policy Framework for Research Data dates back to 1 January 2016. This is before e.g. the GDPR was established. Hence, some of the information mentioned in the policy framework is not up to date. UU is in the process of creating a new policy framework. In the meantime, please consult RDM Support in case of doubt about the information in the current policy framework.",
     "crumbs": [
       "Preface"
     ]
@@ -35,7 +35,7 @@
     "href": "intro_importance.html",
     "title": "2  Importance of good research data management (RDM)",
     "section": "",
-    "text": "2.1 Open Science\nRDM refers to how you handle, organize, and structure your research data throughout the research process. Good RDM is essential for ensuring the integrity and validity of research, facilitating reproducibility and promoting collaboration. It also helps protect sensitive information and comply with regulations. Key reasons why good RDM is important include:\nProper RDM covers the entire data life cycle, from initial planning and collection to storage, analysis, archiving, and sharing. It is essential for effective Open Science and FAIR practices.\nIn 2017, in order to accelerate and improve the realization of research results and their societal impact, the UU decided to make the transition to Open Science. Open Science is about increasing the reuse of research, and making sure that publicly funded research is accessible to all. Key to achieving this is adhering to the FAIR principles: ensuring the findings and data behind research results are findable, accessible, interoperable, and reusable (Bruce and Cordewener (2018)).",
+    "text": "2.1 Open Science\nIn 2017, in order to accelerate and improve the realization of research results and their societal impact, the UU decided to make the transition to Open Science. Open Science is about increasing the reuse of research, and making sure that publicly funded research is accessible to all. Key to achieving this is adhering to the FAIR principles: ensuring the findings and data behind research results are findable, accessible, interoperable, and reusable (Bruce and Cordewener (2018)).",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Importance of good research data management (RDM)</span>"
@@ -122,7 +122,7 @@
     "href": "planning_dmp.html",
     "title": "5  Data management plan (DMP)",
     "section": "",
-    "text": "5.1 Our recommendation\nRDM Support has instructions for developing a DMP. At this page several questions about DMPs are answered, such as the ones below.\nThe use of DMPonline is further explained at the following page: https://www.uu.nl/en/research/research-data-management/tools-services/tool-to-create-your-dmp-online.\nOur recommendation is to write a DMP at the start of your research project and use the applicable template in DMPonline. This contains several examples you can use for your project. If you have any questions or want to have your DMP reviewed, please contact RDM Support as outlined above. During onboarding this will be explained to new staff.",
+    "text": "5.1 Our recommendation\nOur recommendation is to write a DMP at the start of your research project and use the applicable template in DMPonline. This contains several examples you can use for your project. If you have any questions or want to have your DMP reviewed, please contact RDM Support as outlined above. During onboarding this will be explained to new staff.",
     "crumbs": [
       "Planning and designing",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data management plan (DMP)</span>"
@@ -133,7 +133,7 @@
     "href": "planning_costs.html",
     "title": "6  Costs",
     "section": "",
-    "text": "6.1 Our recommendation\nResearch data management will likely incur financial costs. In particular, the costs of data storage, archiving and publishing can be high. In some cases, these costs may not be covered by the university, and thus they will need to be obtained through funding or via other routes during the planning phase of the project. Luckily, most funders consider the costs for data management eligible for funding.\nOur recommendation is to use RMD Support’s guide to estimate the costs involved in research data management before you start your research project (e.g. when you start writing your DMP or applying for funding), because this will save you time and money in the end. If you need support or assistance, please contact RDM Support.",
+    "text": "6.1 Our recommendation\nOur recommendation is to use RMD Support’s guide to estimate the costs involved in research data management before you start your research project (e.g. when you start writing your DMP or applying for funding), because this will save you time and money in the end. If you need support or assistance, please contact RDM Support.",
     "crumbs": [
       "Planning and designing",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Costs</span>"
