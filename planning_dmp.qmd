@@ -2,7 +2,7 @@
 
 RDM Support has instructions for [developing a DMP](https://www.uu.nl/en/research/research-data-management/guides/data-management-planning). At this page several questions about DMPs are answered, such as the ones below.
 
-::: {.callout-note icon="false"}
+::: {.callout-note}
 ## Questions and answers
 
 -   **What is a DMP?** A DMP is a formal document you develop at the start of your research project which outlines all aspects of managing your data, both during and after your project.
