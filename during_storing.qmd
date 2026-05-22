@@ -167,7 +167,7 @@ Always add a README file to the top layer of your folder that explains how the f
 
 ## File naming convention
 
-In most cases, during the course of your research project you will have data stored on both the O: drive and YODA.
+A good file naming structure helps with understanding what files contain and which version of the file you are working with. It's important to not make file names too long, however you should try to make the names as informative as possible. You can find some ideas for naming your files [here](https://datamgmtinedresearch.com/style#style-file). Again, it's good to think about naming your files before you start data collection and to discuss your ideas with the data management representative of your research group.
 
 ### Proposed folder and file naming for YODA
 
