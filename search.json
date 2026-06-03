@@ -35,7 +35,7 @@
     "href": "intro_importance.html",
     "title": "2  Importance of good research data management (RDM)",
     "section": "",
-    "text": "2.1 Open Science\nRDM refers to how you handle, organize, and structure your research data throughout the research process. Good RDM is essential for ensuring the integrity and validity of research, facilitating reproducibility and promoting collaboration. It also helps protect sensitive information and comply with regulations. Key reasons why good RDM is important include:\nProper RDM covers the entire data life cycle, from initial planning and collection to storage, analysis, archiving, and sharing. It is essential for effective Open Science and FAIR practices.\nIn 2017, in order to accelerate and improve the realization of research results and their societal impact, the UU decided to make the transition to Open Science. Open Science is about increasing the reuse of research, and making sure that publicly funded research is accessible to all. Key to achieving this is adhering to the FAIR principles: ensuring the findings and data behind research results are findable, accessible, interoperable, and reusable (Bruce and Cordewener (2018)).",
+    "text": "2.1 Open Science\nIn 2017, in order to accelerate and improve the realization of research results and their societal impact, the UU decided to make the transition to Open Science. Open Science is about increasing the reuse of research, and making sure that publicly funded research is accessible to all. Key to achieving this is adhering to the FAIR principles: ensuring the findings and data behind research results are findable, accessible, interoperable, and reusable (Bruce and Cordewener (2018)).",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Importance of good research data management (RDM)</span>"
@@ -57,7 +57,29 @@
     "href": "intro_responsibilities.html",
     "title": "3  Responsibilities",
     "section": "",
-    "text": "The project leader (e.g. principal investigator) is responsible for …\nDepending on the project requirements, project members (e.g. researchers, PhD/MSc/BSc students, data managers, project managers, research assistants) should:\n\nsign a confidentiality agreement in case the project requires working with personal data;\nwrite a data management plan (DMP);\n…",
+    "text": "3.1 Project leader\nThe project leader (e.g. principal investigator) is the main person responsible for:",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Responsibilities</span>"
+    ]
+  },
+  {
+    "objectID": "intro_responsibilities.html#project-leader",
+    "href": "intro_responsibilities.html#project-leader",
+    "title": "3  Responsibilities",
+    "section": "",
+    "text": "Ensuring that all project members (see below) abide by the UU’s University Policy Framework for Research Data, the Research Data Management Guidelines of the Faculty of Veterinary Medicine and the IRAS Research Data Management Guidelines (i.e. this document).\nOrganizing proper handling of research data.\nMaking sure that research data is stored and preserved in a sustainable manner after the research project has ended.\nKeeping track of what type of identifying personal data will be collected and ensuring that the confidentiality is guaranteed through a detailed description of how identifying personal data will be handled, e.g. in a privacy regulations document. Examples of privacy regulations documents can be found on the O-drive in the folder O:\\DGK\\IRAS\\Algemeen\\Data-Guidelines\\Data_Management\\Example privacy regulations. The description can be kept fairly simple and general if the identifying personal data is kept in the central directory, but may need to be more elaborate and specific when an alternative is wanted or needed.",
+    "crumbs": [
+      "Introduction",
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Responsibilities</span>"
+    ]
+  },
+  {
+    "objectID": "intro_responsibilities.html#project-members",
+    "href": "intro_responsibilities.html#project-members",
+    "title": "3  Responsibilities",
+    "section": "3.2 Project members",
+    "text": "3.2 Project members\nDepending on their role and the project requirements, project members (e.g. students, researchers, research leaders, research assistants, data managers, project managers, etc.) have certain responsibilities as well. The creators of the data (researchers, students and their supervisors) have primary responsibility for good stewardship of their research data. For students, it is the responsibility of the thesis supervisor to ensure that research data is stored and preserved in a sustainable manner after the project has ended.\nMore specifically, project members should:\n\nFamiliarize themselves with the UU’s University Policy Framework for Research Data, the Research Data Management Guidelines of the Faculty of Veterinary Medicine and the IRAS Research Data Management Guidelines (i.e. this document).\nSign the IRAS Identifying Personal Data Confidentiality Agreement in case the project requires working with personal data (see Appendix X ).\nDraw up proper procedures and design processes for the collection, storage, use, reuse, availability and long-term archiving of and provision of access to research data within the research project. The best way to do this is by developing a Data Management Plan (see Chapter 5) based on the information available in these guidelines.\nFactor in the costs for the preservation and management of the research data and how they will be covered (institute-, subsidiary-funding or otherwise) (see Chapter 6).\nIn the case of external data, agreements must be made with the provider of the external data. If participating in a joint study or research project agreements on data management should be made and recorded.\nEnsure that the integrity, confidentiality and protection of the data are guaranteed (see ?sec-privacy_….qmd).\nMake sure that research using personal data (which is the case for most research projects at IRAS) is conducted according to the General Data Protection Regulation (GDPR, in Dutch: AVG). Other laws, such as the Wet Medisch wetenschappelijk Onderzoek (WMO) and  Wet Geneeskundige Behandelingsovereenkomst (WGBO), apply alongside it, filling in specific gaps or adding stricter rules in certain areas. In addition, there are specialized codes of conduct for handling personal data in research, for example the COREON Code of Conduct for Health Research. For more information, see the RDM Support page on policies, codes of conduct and laws and ?sec-privacy_….qmd.\nMake arrangements for the continued operational management of the research data after the end of the research project or termination of the employment contract at the institution.\n\nAn extended version on research data management responsibilities can be found in the UU’s University Policy Framework for Research Data.",
     "crumbs": [
       "Introduction",
       "<span class='chapter-number'>3</span>  <span class='chapter-title'>Responsibilities</span>"
@@ -122,7 +144,7 @@
     "href": "planning_dmp.html",
     "title": "5  Data management plan (DMP)",
     "section": "",
-    "text": "5.1 Our recommendation\nRDM Support has instructions for developing a DMP. At this page several questions about DMPs are answered, such as the ones below.\nThe use of DMPonline is further explained at the following page: https://www.uu.nl/en/research/research-data-management/tools-services/tool-to-create-your-dmp-online.\nOur recommendation is to write a DMP at the start of your research project and use the applicable template in DMPonline. This contains several examples you can use for your project. If you have any questions or want to have your DMP reviewed, please contact RDM Support as outlined above. During onboarding this will be explained to new staff.",
+    "text": "5.1 Our recommendation\nOur recommendation is to write a DMP at the start of your research project and use the applicable template in DMPonline. This contains several examples you can use for your project. If you have any questions or want to have your DMP reviewed, please contact RDM Support as outlined above. During onboarding this will be explained to new staff.",
     "crumbs": [
       "Planning and designing",
       "<span class='chapter-number'>5</span>  <span class='chapter-title'>Data management plan (DMP)</span>"
@@ -133,7 +155,7 @@
     "href": "planning_costs.html",
     "title": "6  Costs",
     "section": "",
-    "text": "6.1 Our recommendation\nResearch data management will likely incur financial costs. In particular, the costs of data storage, archiving and publishing can be high. In some cases, these costs may not be covered by the university, and thus they will need to be obtained through funding or via other routes during the planning phase of the project. Luckily, most funders consider the costs for data management eligible for funding.\nOur recommendation is to use RMD Support’s guide to estimate the costs involved in research data management before you start your research project (e.g. when you start writing your DMP or applying for funding), because this will save you time and money in the end. If you need support or assistance, please contact RDM Support.",
+    "text": "6.1 Our recommendation\nOur recommendation is to use RMD Support’s guide to estimate the costs involved in research data management before you start your research project (e.g. when you start writing your DMP or applying for funding), because this will save you time and money in the end. If you need support or assistance, please contact RDM Support.",
     "crumbs": [
       "Planning and designing",
       "<span class='chapter-number'>6</span>  <span class='chapter-title'>Costs</span>"
