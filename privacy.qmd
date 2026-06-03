@@ -1,4 +1,4 @@
-# Data security and privacy
+# Data security and privacy {#sec-privacy}
 
 ...
 
