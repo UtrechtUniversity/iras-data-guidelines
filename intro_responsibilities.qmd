@@ -16,7 +16,7 @@ The **project leader** (e.g. principal investigator) is the main person responsi
 
 -   Making sure that research data is stored and preserved in a sustainable manner after the research project has ended.
 
--   Keeping track of what type of identifying personal data will be collected and ensuring that the confidentiality is guaranteed through a detailed description of how identifying personal data will be handled, e.g. in a privacy regulations document. Examples of privacy regulations documents can be found on the O-drive in the folder `O:\DGK\IRAS\Algemeen\Data-Guidelines\Data_Management\Example privacy regulations`<!--# T.z.t. als te downloaden bestanden aan Quarto toevoegen. Maar zijn erg oud (komen uit 2013 en 2015), dus misschien Inka vragen of er nieuwere exemplaren zijn? -->. The description can be kept fairly simple and general if the identifying personal data is kept in the central directory, but may need to be more elaborate and specific when an alternative is wanted or needed.
+-   Keeping track of what type of identifying personal data will be collected and ensuring that the confidentiality is guaranteed through a detailed description of how identifying personal data will be handled, e.g. in a privacy statement or privacy regulations document. An example of a privacy statement can be found here: [https://obokids.nl/privacy-2/](https://obokids.nl/privacy-2/). The description can be kept fairly simple and general if the identifying personal data is kept in the central directory, but may need to be more elaborate and specific when an alternative is wanted or needed.
 
 ## Project members
 
