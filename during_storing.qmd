@@ -34,6 +34,8 @@ This chapter will guide you through the steps to take when making a plan to orga
 
 Within the UU several sources of information are available where to store your data safely. It depends upon the research phase and the type of data what an appropriate storage platform is. This [RDM Support Guide](https://www.uu.nl/en/research/research-data-management/guides/storing-and-preserving-data) tells more about storing data during research. You can check out the [UU storage finder](https://tools.uu.nl/storagefinder/) to find the correct platform for your data. Below you will also find some concrete recommendations that apply to most research projects within IRAS.
 
+<!--# Wat betreft de UU storage finder: deze bevat toch informatie die niet helemaal klopt (bijv. over USB-sticks/"mobile storage (encrypted)", dat die security 'high' hebben). Zou het niet beter zijn om al naar de nieuwe storage finder te verwijzen? -->
+
 ### Data classification
 
 To determine the necessary measures to protect your data, it is helpful to first perform a data classification of the data you will collect in your project. This will help you find a suitable data storage tool. The goal of classifying information is roughly categorizing the potential impact for the university if the availability, integrity or confidentiality of the data get compromised.
