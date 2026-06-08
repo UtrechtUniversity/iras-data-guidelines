@@ -4,7 +4,7 @@
 
 Good data storage within a project is very important, and with the growth of the PHS-IRAS division it becomes even more important. The aim of these guidelines is to make storage more uniform across the different projects and to make sure the tools the UU has to offer for data storage are used optimally. Of course, projects differ in their specific data needs and the goal is not to enforce one specific way of working for all projects. However, by reusing the same principles where possible, findability and reproducibility are greatly improved.
 
-## Why is taking good care of data storage important?
+### Why is taking good care of data storage important?
 
 1.  Privacy regulations (GDPR) and medical ethical clearance (METC) procedures make it necessary that personal data are carefully handled.
 
@@ -28,25 +28,25 @@ Good data storage within a project is very important, and with the growth of the
 
 It is important to think about how to organize your data at the start of your research project. Of course, it is possible that during the project you end up having to do some things differently than you had anticipated. However, you should draft plan for storing your data based on the type of data you expect to collect.
 
-This chapter will guide you through the steps to take when making a plan to organize your data. It discusses all the tools that are available in the Utrecht University and points you to relevant resources you can use. The advice is to consult the data management representative of your research group to discuss the best option for your research project.
+This chapter will guide you through the steps to take when making a plan to organize your data. It discusses all the tools that are available at Utrecht University and points you to relevant resources you can use. The advice is to consult the data management representative of your research group to discuss the best option for your research project (see @sec-intro_support for whom to contact).
 
 ### Tools and information
 
-Within the UU several sources of information are available where to store your data safely. It depends upon the research phase and the type of data what an appropriate storage platform is. You can follow the UU checklist on storage to find the correct platform for your data. Below you will also find some concrete recommendations that apply to most research projects within IRAS.
-
-<https://www.uu.nl/en/research/research-data-management/guides/storing-and-preserving-data>
-
-<https://tools.uu.nl/storagefinder/>
+Within the UU several sources of information are available where to store your data safely. It depends upon the research phase and the type of data what an appropriate storage platform is. This [RDM Support Guide](https://www.uu.nl/en/research/research-data-management/guides/storing-and-preserving-data) tells more about storing data during research. You can check out the [UU storage finder](https://tools.uu.nl/storagefinder/) to find the correct platform for your data. Below you will also find some concrete recommendations that apply to most research projects within IRAS.
 
 ### Data classification
 
 To determine the necessary measures to protect your data, it is helpful to first perform a data classification of the data you will collect in your project. This will help you find a suitable data storage tool. The goal of classifying information is roughly categorizing the potential impact for the university if the availability, integrity or confidentiality of the data get compromised.
 
-By answering a set of questions you will determine the value of your data and the security risk that your data is exposed to. You will conclude what the impact is that a breach can have on the availability (what if data cannot be accessed or the data is lost entirely), the integrity (what if the data is incorrect) and confidentiality (what if an unauthorized person gains access to the data ir the data is leaked). Making this assessment is called data classification. When you consult the storage finder, it will also ask you about the data classification.
+By answering a set of questions you will determine the value of your data and the security risk that your data is exposed to. You will conclude what the impact is that a breach can have on the availability (what if data cannot be accessed or the data is lost entirely), the integrity (what if the data is incorrect) and confidentiality (what if an unauthorized person gains access to the data or the data is leaked). Making this assessment is called data classification. When you consult the storage finder, it will also ask you about the data classification.
 
-<https://www.uu.nl/en/research/research-data-management/guides/legal-instruments-and-agreements>
+For more information about data classification see the following pages:
 
-<https://intranet.uu.nl/en/security/information-security-data-classification>
+-   <https://www.uu.nl/en/research/research-data-management/guides/legal-instruments-and-agreements>
+
+-   <https://intranet.uu.nl/en/security/information-security-data-classification>
+
+### Important considerations for storing personal data at IRAS
 
 ::: callout-important
 1.  Personal data should only be accessible to those who need to work with it. This means that data (that is used only infrequently) should be stored centrally (where it can be properly secured) and only accessible to a limited number of people.
@@ -63,11 +63,13 @@ It is very important that data (in general) does not end up in the hands of unau
 
 Particular attention deserves employees that work at home. IRAS does only allow accessing or working with identifying personal data at home via VPN. Identifying personal data should not be transported by means of portable mediums. In exceptional cases, for single transport from institute to institute, for instance, together with samples, encrypted information should be carried on a password secured and labeled data stick.
 
-## IRAS storage recommendations
+<!--# Het zou denk ik goed zijn om ergens definities te geven. Bijv. met betrekking tot personal data, identifying personal data, pseudonymized data, anonymous data, etc. Misschien dat het hoofdstuk over privacy hier de meest logische plek voor is? -->
+
+### IRAS storage recommendations
 
 The UU offers many types of storage, all of which have different specifications (see also the [storage finder](https://tools.uu.nl/storagefinder/)). The most commonly used storage options are the O-drive, YODA and OneDrive. While all of these are supported by the UU, it's important to consider the limitations of each of these systems before you decide which one(s) to use for your project. If you collect sensitive data within your project we recommend to use the UU network O-drive to store and analyze your data. YODA is very convenient when you want to collaborate with external partners and it has advanced features for making your data FAIR that are not available on the O-drive. OneDrive can be convenient to use too but it has important downsides as discussed below.
 
-### OneDrive for business
+#### OneDrive for business
 
 OneDrive for business is installed on most UU-maintained laptops and is safe to store your data. However, because OneDrive is linked to your UU account the data will be lost when you leave the UU. It is advisable to give more people access to your data (e.g. your supervisor or data managers), even though you can give other people access to your OneDrive folders that other people can no longer access these folders when your UU account no longer exists. Therefore the O-drive and YODA are more suitable for storing research data. OneDrive can be convenient for storing documents because you can collaborate with other people, however it is advisable to store the final versions of these documents on the O-drive or YODA.
 
@@ -77,14 +79,14 @@ Be very careful with storing data locally on your computer. When the C-drive is 
 Don't use commercial tools like Dropbox, Google Drive, or the consumer version of OneDrive: your data may be stored outside of Europe (and therefore not covered by European law), and the products are offered "for free" (so the companies monetize your content).
 :::
 
-### O-drive
+#### O-drive
 
-For collaboration with colleagues and research groups within the faculty. Here you can store and share information with your colleagues. It's secure storage provided in a secure folder for which you've set permissions and which you then continue to monitor. Automatic backup of your data is provided in the form of snapshots that go back 90 days. When you plan the data storage for your project, consider if you store (raw) data that you don't use regularly and therefore you might not notice within the 90-day back-up period if they are accidentally deleted or modified. The YODA vault is a suitable place to store raw data that prevents accidental deletion or modification. Finally, the O-drive is not suitable for storing large data files that you don't regularly, as it's very expensive for the faculty. Those data can be best stored in the Yoda vault, see the section on YODA.
+The O-drive is meant for collaboration with colleagues and research groups within the faculty. Here you can store and share information with your colleagues. It's secure storage provided in a secure folder for which you've set permissions and which you then continue to monitor. Automatic backup of your data is provided in the form of snapshots that go back 90 days. When you plan the data storage for your project, consider if you store (raw) data that you don't use regularly and therefore you might not notice within the 90-day back-up period if they are accidentally deleted or modified. The YODA vault is a suitable place to store raw data that prevents accidental deletion or modification. Finally, the O-drive is not suitable for storing large data files that you don't regularly, as it's very expensive for the faculty. Those data can be best stored in the Yoda vault, see the section on YODA.
 
-On the O-drive it is recommended to create a ‘Privacy folder’ (see section 2.5 of the IRAS guidelines) and a ‘Project’ folder for your project. Identifying data is stored in the project’s ‘Privacy’ folder, with restricted access only to those who need this data. The pseudonymized research data can be stored in the ‘Project’ folder, with access for researchers performing the analysis. It is very important that you properly manage access rights to the folders on the O-drive. If necessary, you can create separate folders with restricted access, for e.g. Master’s students. Or add a password to a logbook used by multiple people.
+On the O-drive it is recommended to create a ‘Privacy folder’ and a ‘Project’ folder for your project. Identifying data is stored in the project’s ‘Privacy’ folder, with restricted access only to those who need this data. The pseudonymized research data can be stored in the ‘Project’ folder, with access for researchers performing the analysis. It is very important that you properly manage access rights to the folders on the O-drive. If necessary, you can create separate folders with restricted access, for e.g. Master’s students. Or add a password to a logbook used by multiple people.
 
 ::: callout-note
-## Storing data on the O-drive
+##### Storing data on the O-drive
 
 Advantages:
 
@@ -107,12 +109,12 @@ Disadvantages:
 -   Loading large files can be slow when working via the VPN
 :::
 
-### YODA
+#### YODA
 
-YODA is suitable for long-term collaboration and long-term storage of research data. Automatic backup is provided and YODA is suitable for a wide variety of data types and formats, including identifying or sensitive personal data.. The Faculty of Veterinary Medicine promotes storing large amounts of research data in the YODA vault, this is considerably cheaper than storing these data in the YODA research environment or the O-drive. YODA has additional functionality to improve the FAIRness of your data. You can archive your data with a standardized metadata form using YODA. Because data cannot be easily modified or deleted from the YODA archive and metadata are added, this is the best way to make sure your data are safely stored once your project ends. Storing data in the vault is also adviced to secure raw data and make sure they cannot be accidentally deleted or modified. In addition, data that are stored in the archive can be published using YODA, thereby facilitating reuse of data. You can explore published datasets using [DataCite Commons](https://commons.datacite.org/doi.org?query=client.uid:delft.uu). YODA enables you to collaborate with other researchers, both inside and outside your own institution. The software is developed at Utrecht University and is used by multiple organisations, both in the Netherlands and abroad. All information how to use YODA is available on the [UU website](https://www.uu.nl/en/research/yoda). The different ways to access data in YODA can be found [here](https://www.uu.nl/en/research/yoda/guide-to-yoda/accessing-yoda).
+YODA is suitable for long-term collaboration and long-term storage of research data. Automatic backup is provided and YODA is suitable for a wide variety of data types and formats, including identifying or sensitive personal data.. The Faculty of Veterinary Medicine promotes storing large amounts of research data in the YODA vault, this is considerably cheaper than storing these data in the YODA research environment or the O-drive. YODA has additional functionality to improve the FAIRness of your data. You can archive your data with a standardized metadata form using YODA. Because data cannot be easily modified or deleted from the YODA archive and metadata are added, this is the best way to make sure your data are safely stored once your project ends. Storing data in the vault is also advised to secure raw data and make sure they cannot be accidentally deleted or modified. In addition, data that are stored in the archive can be published using YODA, thereby facilitating reuse of data. You can explore published datasets using [DataCite Commons](https://commons.datacite.org/doi.org?query=client.uid:delft.uu). YODA enables you to collaborate with other researchers, both inside and outside your own institution. The software is developed at Utrecht University and is used by multiple organisations, both in the Netherlands and abroad. All information how to use YODA is available on the [UU website](https://www.uu.nl/en/research/yoda). The different ways to access data in YODA can be found [here](https://www.uu.nl/en/research/yoda/guide-to-yoda/accessing-yoda).
 
 ::: callout-note
-## Storing data in Yoda
+##### Storing data in Yoda
 
 Advantages:
 
@@ -127,7 +129,9 @@ Disadvantages:
 -   Direct access to large files can be slow because they have to be transferred over the network
 :::
 
-## Organize your data using a intuitive folder structure
+## Organizing data
+
+### Folder structure
 
 Your research folder ideally represents the whole lineage of all the data in your research project, from collection to publication. That typically includes the following categories:
 
@@ -141,7 +145,7 @@ Your research folder ideally represents the whole lineage of all the data in you
 
 -   Documentation, this includes:
 
-    -   Contracts, informed consent templates etc.
+    -   Contracts, informed consent templates, etc.
 
     -   Codebooks for questionnaires
 
@@ -154,57 +158,84 @@ The contents of your data folder can be split in to types of files, data and met
 The most rudimentary folders structure would therefore look something like this:
 
 ```         
-project_name
-|-- raw_data
-|-- code
-|-- documentation
-|-- output
+project_name/
+|-- README.md
+|-- data/
+    |-- raw/
+    |-- processed/
+|-- code/
+|-- documentation/
+|-- output/
 ```
 
 However, there is no one way to do it so the advice is to think about this before you start your project together with the data management representative from your research group.
 
-Always add a README file to the top layer of your folder that explains how the folder structure is built up and what can be found in each of the subfolders. Also explain the file naming convention in this README file. In most cases it suffices to have one README file for the whole folder but sometimes it can help to add README files in subfolders.
-
-## File naming convention
-
-A good file naming structure helps with understanding what files contain and which version of the file you are working with. It's important to not make file names too long, however you should try to make the names as informative as possible. You can find some ideas for naming your files [here](https://datamgmtinedresearch.com/style#style-file). Again, it's good to think about naming your files before you start data collection and to discuss your ideas with the data management representative of your research group.
-
-### Proposed folder and file naming for YODA
+Always add a README file to the top layer of your folder that explains how the folder structure is built up and what can be found in each of the subfolders. Also explain the file naming convention (see below) in this README file. In most cases it suffices to have one README file for the whole folder but sometimes it can help to add README files to subfolders.
 
 ::: callout-note
-## Folder structure in Yoda
+#### Important considerations for organizing folders in Yoda
 
-Yoda has some limitations when it comes to organizing folders that should be taken into account when designing a folder structure:
+Yoda has some **technical limitations** when it comes to organizing folders that should be taken into account when designing a folder structure:
 
--   Only use lowercase letters, digits or hyphens for project folder names
+-   Only use lowercase letters, digits or hyphens for project folder names.
 
--   Filenames within folder are case-sensitive and may also contain e.g. spaces (but never single quotes)
+-   Filenames within folder are case-sensitive and may also contain e.g. spaces (but never single quotes).
 
--   File paths can be maximally 1023 characters long, always including the prefix ‘/nluu6p/home/research-‘ but the user-usable limit is lower due to how YODA works: at least 900 characters available NB: limits can differ between operating systems when trying to access YODA via e.g. WebDAV
+-   File paths can be maximally 1023 characters long, always including the prefix ‘/nluu6p/home/research-‘ but the user-usable limit is lower due to how YODA works: at least 900 characters available NB: limits can differ between operating systems when trying to access YODA via e.g. WebDAV.
 
-Some recommendations for naming research folders:
+Some **additional** **recommendations** for naming research folders:
 
--   Preferably as short as possible o Includes project name
+-   Preferably as short as possible.
 
--   Project name alone is hard to make meaningful (especially a short name that should last over time); so project folder names could also include the last name and initials of the researcher
+-   Includes project name.
 
--   A set project folder name structure allows for more overview when mounting YODA as a drive
+-   Project name alone is hard to make meaningful (especially a short name that should last over time); so project folder names could also include the last name and initials of the researcher.
 
--   Because of the way access rights work in YODA, often the same research project folder name is repeated with a suffix (e.g. adding ‘-shared’) to share subsets of the data with different people - It would be very useful for continuity and easy transfer between data managers if every community contains a README file for data managers, describing the structure (i.e. community and subcommunity levels) and research project folder naming guidelines used in that community.
+-   A set project folder name structure allows for more overview when mounting YODA as a drive.
+
+-   Because of the way access rights work in YODA, often the same research project folder name is repeated with a suffix (e.g. adding ‘-shared’) to share subsets of the data with different people.
+
+-   It would be very useful for continuity and easy transfer between data managers if every community contains a README file for data managers, describing the structure (i.e. community and subcommunity levels) and research project folder naming guidelines used in that community.
 :::
 
-### Publishing your data
+### File naming convention
 
-At the end of the project or when a paper has been summitted, you can publish your data in YODA or Dataverse. Publishing your data fits the goals of Open Science but there can be reasons to not share all your data. However, you can choose to only publish the metadata of your research project, that way you can tell the world which data you have but keep control over who you share your data with and under what conditions. You can find more about publishing your data on the [UU RDM Support website](https://www.uu.nl/en/research/research-data-management/guides/publishing-and-sharing-data).
-
-### Data breach
-
-There is a data breach in case when an incident involves the university’s employees or students or IT resources. If you suspect a data breach, please report it as soon as possible via databreach\@uu.nl. https://intranet.uu.nl/en/knowledgebase/what-do-i-have-to-do-if-there-is-a-personal-data-breach https://www.uu.nl/en/organisation/practical-matters/privacy/report-data-breach
-
-### Links with additional information
-
-For further information please see the following links: https://www.uu.nl/en/research/research-data-management/tools-services/tools-for-storing-and-managing-data https://intranet.uu.nl/en/information-security-where-should-i-store-my-data https://intranet.uu.nl/kennisbank/onderzoeksinformatie-dgk (Dutch) At Teams: Storage Overview High Security.xlsx
+A good file naming structure helps with understanding what files contain and which version of the file you are working with. It's important to not make file names too long, however you should try to make the names as informative as possible. You can find some ideas for naming your files [here](https://datamgmtinedresearch.com/style#style-file). Again, it's good to think about naming your files before you start data collection and to discuss your ideas with the data management representative of your research group (see @sec-intro_support for whom to contact).
 
 ### Data formats
 
-There is a lot of diversity in data formats. When possible, it is important to choose for future-proof data formats (i.e. open, standardized formats) to be able to continue reading, displaying and processing research data in the future.
+There is a lot of diversity in data formats. When possible, it is important to choose for future-proof data formats (i.e. open, standardized formats) to be able to continue reading, displaying and processing research data in the future (e.g. CSV instead of XLSX). Furthermore, open data formats allow other researchers with different operating systems and different software packages to access the data.
+
+Open data formats are preferred over proprietary formats because proprietary formats can become unsupported if the company that created them, stops developing the software or goes out of business. This is especially problematic with instruments that only output data in a proprietary file format.
+
+There are many lists of open data formats to use as reference, not all of them contain the same guidance, and there can be many disagreements between researchers in the Open Science community. If you’re going to be publishing data in a repository (see @sec-after_publishing), they may provide a list of formats that you should use to publish there. If not, here are resources with open data formats:
+
+-   [DANS list of open formats](https://dans.knaw.nl/en/file-formats/)
+
+-   [4TU list (PDF)](https://data.4tu.nl/s/documents/Preferred_File_Formats_2023.pdf)
+
+## Publishing your data
+
+At the end of the project or when a paper has been submitted, you can publish your data in YODA or DataverseNL. Publishing your data fits the goals of Open Science but there can be reasons to not share all your data. However, you can choose to only publish the metadata of your research project, that way you can tell the world which data you have but keep control over who you share your data with and under what conditions. You can find more about publishing your data in @sec-after_publishing and on the [UU RDM Support website](https://www.uu.nl/en/research/research-data-management/guides/publishing-and-sharing-data). <!--# Als we hier kort 'publishing data' benoemen, moeten we dan niet ook kort iets zeggen over 'archiving data' en naar dat hoofdstuk verwijzen? -->
+
+## Data breaches
+
+Did something (possibly) happen with [personal data](https://intranet.uu.nl/en/knowledgebase/what-is-personal-data) that was not supposed to happen? Did anyone have unauthorised access? Did anyone who should have access lose that access? Have any [personal data](https://intranet.uu.nl/en/knowledgebase/what-is-personal-data) been [lost](https://intranet.uu.nl/en/knowledgebase/theft)? If so, that is considered a personal [data breach](https://intranet.uu.nl/en/knowledgebase/what-is-a-personal-data-breach). If you suspect a data breach, please report it as soon as possible via [databreach\@uu.nl](databreach@uu.nl).
+
+For more information see:
+
+-   <https://intranet.uu.nl/en/knowledgebase/what-do-i-have-to-do-if-there-is-a-personal-data-breach>
+
+-   <https://www.uu.nl/en/organisation/practical-matters/privacy/report-data-breach>
+
+## Links with additional information
+
+For further information please see the following links:
+
+-   <https://www.uu.nl/en/research/research-data-management/tools-services/tools-for-storing-and-managing-data>
+
+-   <https://intranet.uu.nl/en/information-security-where-should-i-store-my-data>
+
+-   <https://intranet.uu.nl/kennisbank/onderzoeksinformatie-dgk> (Dutch)
+
+-   At Teams: [Storage Overview High Security.xlsx](https://solisservices.sharepoint.com/:x:/r/sites/IrasDM/Shared%20Documents/General/Update_Data_Guidelines/Storage%20Overview%20High%20Security.xlsx?d=wb9f81a92d23c47c19cea698176e30cd9&csf=1&web=1&e=HDF81E) <!--# Dit document staat nu in onze Teams-groep (en is dus niet toegankelijk voor iedereen), willen we dat als downloadbaar document toevoegen aan Quarto? Misschien beter van niet omdat "Mobile storage (encrypted)" hier ook bij staat en dat verwarrend is omdat we in dit document afraden dat te gebruiken? En het zorgt ook wel voor een overload aan informatie, ik zie ook niet per se in waarom de informatie die in de Excel staat veel toevoegt. -->

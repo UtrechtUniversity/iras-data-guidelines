@@ -4,11 +4,21 @@
 
 The IRAS Data Management team is available for consultation on matters related to data management. We have a wide variety of expertise within the team, from data collection and cleaning to working with GIS data and setting up and hosting applications. While capacity within the team is limited when it comes to providing hands-on support, we will most of the time be able to provide advice on any data related questions you might have or bring you in to contact with the right people to help you further. You can contact us at [iras_dm\@uu.nl](mailto:iras_dm@uu.nl).
 
+::: callout-note
+### IRAS Data Management team
+
+-   Coordinator: **Zimbo Boudewijns**
+-   One Health Chemical (OHC) representatives: **Inka Pieterson, Marthe Knijff**
+-   One Health Microbial (OHM) representative: **Peter Scherpenisse**
+-   One Health Toxicology (OHT) representative: **Kas Adriaans**
+-   Veterinary and Comparative Pharmacology (VCP) representative: **André Joubert**
+:::
+
 ## UU RDM Support team
 
 In addition to the data management team at IRAS, the UU’s [Research Data Management (RDM) Support team](https://www.uu.nl/en/research/research-data-management) is there to support, advise and assist all researchers at UU with data management, data analysis, research software and code. A multidisciplinary network of data experts, software specialists and research engineers offer their expertise through training, tools, infrastructure, consultancy, and custom-made solutions at every stage of a research project. The support they provide complies with the FAIR principles: findable, accessible, interoperable and reusable. That way, it contributes to Open Science.
 
-::: {.callout-note}
+::: callout-note
 ### RDM Support workshops and guides
 
 To learn more about how to manage your research data and software, the UU’s RDM Support team offers several trainings and workshops, as well as walk-in events. For a complete event agenda, together with information on trainings and workshop, please refer to the [RDM Support website](https://www.uu.nl/en/research/research-data-management/workshops).
@@ -28,7 +38,7 @@ Besides the IRAS Data Management team and RDM Support team, the following suppor
 
 In case you have questions about research data management, please reach out!
 
-::: {.callout-note}
+::: callout-note
 ### Contact details
 
 IRAS Data Management team: [iras_dm\@uu.nl](mailto:iras_dm@uu.nl)
