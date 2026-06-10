@@ -1,17 +1,26 @@
 # Support {#sec-intro_support}
 
-## IRAS Data Management team
+## IRAS Data Management team {#sec-intro_support_iras}
 
 The IRAS Data Management team is available for consultation on matters related to data management. We have a wide variety of expertise within the team, from data collection and cleaning to working with GIS data and setting up and hosting applications. While capacity within the team is limited when it comes to providing hands-on support, we will most of the time be able to provide advice on any data related questions you might have or bring you in to contact with the right people to help you further. You can contact us at [iras_dm\@uu.nl](mailto:iras_dm@uu.nl).
 
+<!--# Hier ook document opnemen dat Zimbo/Carmel opgesteld hebben met de beschrijving van wat we bieden. Geldt wel alleen voor OHC, maar misschien dat de andere afdelingen soortgelijke documenten kunnen opstellen. -->
+
 ::: callout-note
 ### IRAS Data Management team
+
+Data management representatives:
 
 -   Coordinator: **Zimbo Boudewijns**
 -   One Health Chemical (OHC) representatives: **Inka Pieterson, Marthe Knijff**
 -   One Health Microbial (OHM) representative: **Peter Scherpenisse**
 -   One Health Toxicology (OHT) representative: **Kas Adriaans**
 -   Veterinary and Comparative Pharmacology (VCP) representative: **André Joubert**
+
+Other expertise:
+
+-   GIS specialists: **Lloyd Roga, Carmel Suchard**
+-   Data solution architect and application specialist: **Adam El Kassimi**
 :::
 
 ## UU RDM Support team
@@ -50,4 +59,4 @@ RSO of the Faculty of Veterinary Medicine: [rso-dgk\@uu.nl](mailto:rso-dgk@uu.nl
 Privacy Officers of the Faculty of Veterinary Medicine: [privacy-dgk\@uu.nl](mailto:privacy-dgk@uu.nl)
 :::
 
-<!--# De IRAS-DM mailbox is inmiddels aangemaakt. We moeten nog wel beschrijven wat wij kunnen doen en we moeten een procedure bedenken hoe we de NPM gaan bijhouden. -->
+<!--# De IRAS-DM mailbox is inmiddels aangemaakt. We moeten nog wel een procedure bedenken hoe we de NPM gaan bijhouden. -->

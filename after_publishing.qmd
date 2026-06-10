@@ -1,5 +1,7 @@
 # Publishing data {#sec-after_publishing}
 
+At the end of the project or when a paper has been submitted, you can publish your data in YODA or DataverseNL. Publishing your data fits the goals of Open Science but there can be reasons to not share all your data. However, you can choose to only publish the metadata of your research project, that way you can tell the world which data you have but keep control over who you share your data with and under what conditions. You can find more about publishing your data on the [UU RDM Support website](https://www.uu.nl/en/research/research-data-management/guides/publishing-and-sharing-data). <!--# Dit stukje stond eerst in het hoofdstuk over data storage, ik heb het voor nu gewoon even hiernaartoe gekopieerd, maar er moet nog even kritisch naar gekeken. -->
+
 ...
 
 <!--# Bijv. Yoda? -->
