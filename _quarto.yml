@@ -8,11 +8,11 @@ book:
     - "Marthe Knijff"
     - "Zimbo Boudewijns"
   date: last-modified
-  # cover-image: uu-logo-en-geenwitruimte.png
+  # cover-image: fig/uu-logo-en-geenwitruimte.png
   search: true
   sidebar:
     collapse-level: 1
-    logo: uu-logo-en-geenwitruimte.png
+    logo: fig/uu-logo-en-geenwitruimte.png
 
   chapters:
     - index.qmd
