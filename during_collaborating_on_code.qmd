@@ -1,0 +1,31 @@
+# Collaborating on code
+
+## Using version control software
+
+Using distributed version control software is best practice when working on coding projects. The most commonly used one is Git, which along with the GitHub platform, has become the de facto standard (although alternatives do exist). Incorporating Git and GitHub into your project workflow has (at least) four distinct benefits:
+
+- Your code is version-controlled, which means that you can easily track changes over time, and even undo them if needed.
+
+- Multiple individuals can see and collaborate on the code, without clashing with each other and without sending code via email.
+
+- GitHub provides a remote backup of your code, so it isn't stored only on your local machine.
+
+- Your completed code has a permanent place to live, so you can easily share it with others or deploy it as a web page or an application.
+
+Given these benefits, it's clear that using version control software makes it much easier to write FAIR research code. Sometimes data can also be versioned controlled, but generally GitHub is not a good choice for storing large datasets or proprietary formats.
+
+## Verison control at IRAS
+
+Utrecht University provides an <a href="https://github.com/UtrechtUniversitystoring-and-preserving-data"> organizational GitHub account</a> where you can organize your code repositories and collaborate with others at the university. Creating projects within the organization makes it easier to ensure that everyone working on the project has the right level of access.
+
+It is also possible to create teams within the organization. Current, IRAS has one active group called IRAS-OneHealthChemical. More teams will be created in the future for other units, as they are needed.
+
+## Learning to use Git and GitHub
+
+On the Utrecht University best-practices page, you can find many resources for getting started in writing FAIR research code.
+
+- [Best practices for git, GitHub, and research software development. Tailored for researchers of Utrecht University](https://github.com/UtrechtUniversity/best-practices)
+
+In addition, the Research Data Management Support group at Utrecht University hosts an workshops several times a per year, or on request.
+
+- [Introduction to Gihub](More%20details%20can%20be%20found%20on:%20Introduction%20to%20GitHub%20-%20Research%20Data%20Management%20Support%20-%20Utrecht%20University)
