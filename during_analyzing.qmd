@@ -42,7 +42,7 @@ GitHub makes it easy to add a license when creating a repository or afterwards t
 
 Make sure you check all the boxes of [UU-RDM FAIR Code cheatsheet](https://github.com/UtrechtUniversity/FAIR-Cheatsheets/blob/main/cheatsheets/FAIR_code_publishing/cheatsheet_FAIR_code_publishing.pdf) before you publish your work!
 
-### Other helpful links:
+### Other helpful links
 
 On the Utrecht University-RDM GitHub page, you can you can find many resources for getting started in writing FAIR research code:
 
