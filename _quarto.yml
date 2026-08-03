@@ -35,6 +35,7 @@ book:
       - during_storing.qmd
       - during_documenting.qmd
       - during_analyzing.qmd
+      - during_collaborating_on_code.qmd
       
     - part: after.qmd
       chapters:

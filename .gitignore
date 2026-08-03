@@ -9,3 +9,5 @@
 /_site/
 /archive
 todo
+
+**/*.quarto_ipynb
