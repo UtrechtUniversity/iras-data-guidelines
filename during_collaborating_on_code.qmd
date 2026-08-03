@@ -1,8 +1,12 @@
 # Collaborating on code
 
-## Using version control software
+## FAIR code
 
-Using distributed version control software is best practice when working on coding projects. The most commonly used one is Git, which along with the GitHub platform, has become the de facto standard (although alternatives do exist). Incorporating Git and GitHub into your project workflow has (at least) four distinct benefits:
+The FAIR principles for data management can also be applied to code and software. [Lamprecht et al. (2020)](https://doi.org/10.3233/DS-19002) provide an academic framework for this. [The Netherlands eScience Center in collaboration with DANS](https://fair-software.eu/) provide five actionable points that you can implement in your research work. These points are geared towards larger software projects, while researchers at IRAS usually create smaller scale projects in the form of scripts for which including all of these points might be excessive. In this chapter we highlight the three points that are important for making your code FAIR in smaller scale projects and are easy to implement, provided you keep them in mind from the start of your project.
+
+## 1. Use a publicly accessible repository with version control
+
+At IRAS, we use Git along with the GitHub platform. Incorporating Git and GitHub into your project workflow has (at least) four distinct benefits:
 
 - Your code is version-controlled, which means that you can easily track changes over time, and even undo them if needed.
 
@@ -12,20 +16,32 @@ Using distributed version control software is best practice when working on codi
 
 - Your completed code has a permanent place to live, so you can easily share it with others or deploy it as a web page or an application.
 
-Given these benefits, it's clear that using version control software makes it much easier to write FAIR research code. Sometimes data can also be versioned controlled, but generally GitHub is not a good choice for storing large datasets or proprietary formats.
+[If you connect your GitHub account to the Utrecht University GitHub organization](https://github.com/UtrechtUniversity/getting-started), you can use all of GitHub's functionality without restriction. Utrecht University provides an organizational GitHub account where you can organize your code repositories and collaborate with others at the university. It is also possible to create teams within the organization. Current, IRAS has one active group called IRAS-OneHealthChemical. More teams will be created in the future for other units, as they are needed.
 
-## Verison control at IRAS
+When you create a GitHub repository for your research project, it is recommended that you set UtrechtUniversity as owner of the repository to gain the benefits of the organization. In principle, the copyright of work that you publish is owned by Utrecht University, but in daily practice you can make your own choices as if you were the copyright holder. You should also always add a license to the published work.
 
-Utrecht University provides an <a href="https://github.com/UtrechtUniversitystoring-and-preserving-data"> organizational GitHub account</a> where you can organize your code repositories and collaborate with others at the university. Creating projects within the organization makes it easier to ensure that everyone working on the project has the right level of access.
+## 2. Add a license
 
-It is also possible to create teams within the organization. Current, IRAS has one active group called IRAS-OneHealthChemical. More teams will be created in the future for other units, as they are needed.
+Before publishing or sharing your code, add a software license to your repository. A license clearly states what others are allowed to do with your code, such as using, modifying, or redistributing it. Without a license, others have no permission to reuse your code, even if it is publicly available on GitHub. At IRAS, we encourage researchers to include an open-source license whenever possible. The choice of license depends on how you want your code to be reused. [Choosealicense.com](https://choosealicense.com/) is a helpful website to learn which license suits your project the most. For most research projects, we recommend choosing one of the following licenses:
 
-## Learning to use Git and GitHub
+- MIT license: Short and highly permissive. Friction-free and most suited for a small library or script.
 
-On the Utrecht University best-practices page, you can find many resources for getting started in writing FAIR research code.
+- Apache license 2.0: Highly permissive, but longer and more explicit. More suitable for larger software projects.
+
+- GNU General Public License (GPL): A "copyleft" license that says that anything that is created using your code, should also use the same open rights as your code. With this license, closed source software using your code is not allowed to be distributed.
+
+GitHub makes it easy to add a license when creating a repository or afterwards through the repository interface. Including a license from the start of your project makes it clear to collaborators and future users how your code can be used and shared. Keep in mind that your license should be consistent with any contractual obligations for the research that you are working on.
+
+## 3. FAIR code checklist
+
+Make sure you check all the boxes of [UU-RDM FAIR Code cheatsheet](https://github.com/UtrechtUniversity/FAIR-Cheatsheets/blob/main/cheatsheets/FAIR_code_publishing/cheatsheet_FAIR_code_publishing.pdf)before you publish your work!
+
+## Other helpful links:
+
+On the Utrecht University- RDM GitHub page, you can you can find many resources for getting started in writing FAIR research code.
 
 - [Best practices for git, GitHub, and research software development. Tailored for researchers of Utrecht University](https://github.com/UtrechtUniversity/best-practices)
 
-In addition, the Research Data Management Support group at Utrecht University hosts an workshops several times a per year, or on request.
+Using Git and GitHub is an essential skill if you do any sort of programming work in your (academic) career. To learn the basics, the Research Data Management Support group at Utrecht University hosts an workshops several times a per year, or on request.
 
-- [Introduction to Gihub](More%20details%20can%20be%20found%20on:%20Introduction%20to%20GitHub%20-%20Research%20Data%20Management%20Support%20-%20Utrecht%20University)
+- [Introduction to GitHub](https://www.uu.nl/en/research/research-data-management/workshops/introduction-to-github)
