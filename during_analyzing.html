@@ -290,7 +290,20 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#git-and-github-for-code-and-software" id="toc-git-and-github-for-code-and-software" class="nav-link active" data-scroll-target="#git-and-github-for-code-and-software"><span class="header-section-number">10.1</span> Git and GitHub for code and software</a>
+  <ul class="collapse">
+  <li><a href="#fair-code" id="toc-fair-code" class="nav-link" data-scroll-target="#fair-code"><span class="header-section-number">10.1.1</span> FAIR code</a></li>
+  <li><a href="#use-a-publicly-accessible-repository-with-version-control" id="toc-use-a-publicly-accessible-repository-with-version-control" class="nav-link" data-scroll-target="#use-a-publicly-accessible-repository-with-version-control"><span class="header-section-number">10.1.2</span> 1. Use a publicly accessible repository with version control</a></li>
+  <li><a href="#add-a-license" id="toc-add-a-license" class="nav-link" data-scroll-target="#add-a-license"><span class="header-section-number">10.1.3</span> 2. Add a license</a></li>
+  <li><a href="#fair-code-checklist" id="toc-fair-code-checklist" class="nav-link" data-scroll-target="#fair-code-checklist"><span class="header-section-number">10.1.4</span> 3. FAIR code checklist</a></li>
+  <li><a href="#other-helpful-links" id="toc-other-helpful-links" class="nav-link" data-scroll-target="#other-helpful-links"><span class="header-section-number">10.1.5</span> Other helpful links</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -316,8 +329,52 @@ ul.task-list li input[type="checkbox"] {
 
 <p>…</p>
 <!--# Bijv. O drive, VREs (SURF Research Cloud/SURF SANE (UU), anDREa (UMCU)), GitHub, etc. -->
+<section id="git-and-github-for-code-and-software" class="level2" data-number="10.1">
+<h2 data-number="10.1" class="anchored" data-anchor-id="git-and-github-for-code-and-software"><span class="header-section-number">10.1</span> Git and GitHub for code and software</h2>
+<section id="fair-code" class="level3" data-number="10.1.1">
+<h3 data-number="10.1.1" class="anchored" data-anchor-id="fair-code"><span class="header-section-number">10.1.1</span> FAIR code</h3>
+<p>The FAIR principles for data management can also be applied to code and software. <a href="https://doi.org/10.3233/DS-19002">Lamprecht et al.&nbsp;(2020)</a> provide an academic framework for this. <a href="https://fair-software.eu/">The Netherlands eScience Center in collaboration with DANS</a> provide five actionable points that you can implement in your research work. These points are geared towards larger software projects, while researchers at IRAS usually create smaller scale projects in the form of scripts for which including all of these points might be excessive. In this chapter we highlight the three points that are important for making your code FAIR in smaller scale projects and are easy to implement, provided you keep them in mind from the start of your project.</p>
+</section>
+<section id="use-a-publicly-accessible-repository-with-version-control" class="level3" data-number="10.1.2">
+<h3 data-number="10.1.2" class="anchored" data-anchor-id="use-a-publicly-accessible-repository-with-version-control"><span class="header-section-number">10.1.2</span> 1. Use a publicly accessible repository with version control</h3>
+<p>At IRAS, we use Git along with the GitHub platform. Incorporating Git and GitHub into your project workflow has (at least) four distinct benefits:</p>
+<ul>
+<li><p>Your code is version-controlled, which means that you can easily track changes over time, and even undo them if needed.</p></li>
+<li><p>Multiple individuals can see and collaborate on the code, without clashing with each other and without sending code via email.</p></li>
+<li><p>GitHub provides a remote backup of your code, so it isn’t stored only on your local machine.</p></li>
+<li><p>Your completed code has a permanent place to live, so you can easily share it with others or deploy it as a web page or an application.</p></li>
+</ul>
+<p><a href="https://github.com/UtrechtUniversity/getting-started">If you connect your GitHub account to the Utrecht University GitHub organization</a>, you can use all of GitHub’s functionality without restriction. Utrecht University provides an organizational GitHub account where you can organize your code repositories and collaborate with others at the university. It is also possible to create teams within the organization. Currently, IRAS has one active group called IRAS-OneHealthChemical. More teams will be created in the future for other units, as they are needed.</p>
+<p>When you create a GitHub repository for your research project, it is recommended that you set UtrechtUniversity as owner of the repository to gain the benefits of the organization. In principle, the copyright of work that you publish is owned by Utrecht University, but in daily practice you can make your own choices as if you were the copyright holder. You should also always add a license to the published work.</p>
+</section>
+<section id="add-a-license" class="level3" data-number="10.1.3">
+<h3 data-number="10.1.3" class="anchored" data-anchor-id="add-a-license"><span class="header-section-number">10.1.3</span> 2. Add a license</h3>
+<p>Before publishing or sharing your code, add a software license to your repository. A license clearly states what others are allowed to do with your code, such as using, modifying, or redistributing it. Without a license, others have no permission to reuse your code, even if it is publicly available on GitHub. At IRAS, we encourage researchers to include an open-source license whenever possible. The choice of license depends on how you want your code to be reused. <a href="https://choosealicense.com/">Choosealicense.com</a> is a helpful website to learn which license suits your project the most. For most research projects, we recommend choosing one of the following licenses:</p>
+<ul>
+<li><p>MIT license: Short and highly permissive. Friction-free and most suited for a small library or script.</p></li>
+<li><p>Apache license 2.0: Highly permissive, but longer and more explicit. More suitable for larger software projects.</p></li>
+<li><p>GNU General Public License (GPL): A “copyleft” license that says that anything that is created using your code, should also use the same open rights as your code. With this license, closed source software using your code is not allowed to be distributed.</p></li>
+</ul>
+<p>GitHub makes it easy to add a license when creating a repository or afterwards through the repository interface. Including a license from the start of your project makes it clear to collaborators and future users how your code can be used and shared. Keep in mind that your license should be consistent with any contractual obligations for the research that you are working on.</p>
+</section>
+<section id="fair-code-checklist" class="level3" data-number="10.1.4">
+<h3 data-number="10.1.4" class="anchored" data-anchor-id="fair-code-checklist"><span class="header-section-number">10.1.4</span> 3. FAIR code checklist</h3>
+<p>Make sure you check all the boxes of <a href="https://github.com/UtrechtUniversity/FAIR-Cheatsheets/blob/main/cheatsheets/FAIR_code_publishing/cheatsheet_FAIR_code_publishing.pdf">UU-RDM FAIR Code cheatsheet</a> before you publish your work!</p>
+</section>
+<section id="other-helpful-links" class="level3" data-number="10.1.5">
+<h3 data-number="10.1.5" class="anchored" data-anchor-id="other-helpful-links"><span class="header-section-number">10.1.5</span> Other helpful links</h3>
+<p>On the Utrecht University-RDM GitHub page, you can you can find many resources for getting started in writing FAIR research code:</p>
+<ul>
+<li><a href="https://github.com/UtrechtUniversity/best-practices">Best practices for git, GitHub, and research software development. Tailored for researchers of Utrecht University</a></li>
+</ul>
+<p>Using Git and GitHub is an essential skill if you do any sort of programming work in your (academic) career. To learn the basics, the Research Data Management Support group at Utrecht University hosts workshops several times a per year, or on request:</p>
+<ul>
+<li><a href="https://www.uu.nl/en/research/research-data-management/workshops/introduction-to-github">Introduction to GitHub</a></li>
+</ul>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
