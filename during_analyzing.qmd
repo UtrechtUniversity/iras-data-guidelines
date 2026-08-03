@@ -22,7 +22,7 @@ At IRAS, we use Git along with the GitHub platform. Incorporating Git and GitHub
 
 -   Your completed code has a permanent place to live, so you can easily share it with others or deploy it as a web page or an application.
 
-[If you connect your GitHub account to the Utrecht University GitHub organization](https://github.com/UtrechtUniversity/getting-started), you can use all of GitHub's functionality without restriction. Utrecht University provides an organizational GitHub account where you can organize your code repositories and collaborate with others at the university. It is also possible to create teams within the organization. Current, IRAS has one active group called IRAS-OneHealthChemical. More teams will be created in the future for other units, as they are needed.
+[If you connect your GitHub account to the Utrecht University GitHub organization](https://github.com/UtrechtUniversity/getting-started), you can use all of GitHub's functionality without restriction. Utrecht University provides an organizational GitHub account where you can organize your code repositories and collaborate with others at the university. It is also possible to create teams within the organization. Currently, IRAS has one active group called IRAS-OneHealthChemical. More teams will be created in the future for other units, as they are needed.
 
 When you create a GitHub repository for your research project, it is recommended that you set UtrechtUniversity as owner of the repository to gain the benefits of the organization. In principle, the copyright of work that you publish is owned by Utrecht University, but in daily practice you can make your own choices as if you were the copyright holder. You should also always add a license to the published work.
 
