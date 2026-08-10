@@ -2,7 +2,7 @@
 
 ## IRAS Data Management team {#sec-intro_support_iras}
 
-The IRAS Data Management team is available for consultation on matters related to data management. We have a wide variety of expertise within the team, from data collection and cleaning to working with GIS data and setting up and hosting applications. While capacity within the team is limited when it comes to providing hands-on support, we will most of the time be able to provide advice on any data related questions you might have or bring you in to contact with the right people to help you further. You can contact us at [iras_dm\@uu.nl](mailto:iras_dm@uu.nl).
+The IRAS Data Management team is available for consultation on matters related to data management. We have a wide variety of expertise within the team, from data collection and cleaning to working with GIS data and setting up and hosting applications. While capacity within the team is limited when it comes to providing hands-on support, we will most of the time be able to provide advice on any data related questions you might have or bring you in to contact with the right people to help you further.
 
 <!--# Hier ook document met DM-services opnemen. Geldt wel alleen voor OHC (dit hier benoemen), maar misschien dat de andere afdelingen soortgelijke documenten kunnen opstellen. -->
 
@@ -11,16 +11,16 @@ The IRAS Data Management team is available for consultation on matters related t
 
 Data management representatives:
 
--   Coordinator: **Zimbo Boudewijns**
--   One Health Chemical (OHC) representatives: **Inka Pieterson, Marthe Knijff**
--   One Health Microbial (OHM) representative: **Peter Scherpenisse**
--   One Health Toxicology (OHT) representative: **Kas Adriaans**
--   Veterinary and Comparative Pharmacology (VCP) representative: **André Joubert**
+-   **Coordinator**: Zimbo Boudewijns
+-   **One Health Chemical (OHC) representatives**: Inka Pieterson, Marthe Knijff ([iras_dm\@uu.nl](mailto:iras_dm@uu.nl))
+-   **One Health Microbial (OHM) representative:** Peter Scherpenisse ([p.scherpenisse\@uu.nl](mailto:p.scherpenisse@uu.nl))
+-   **One Health Toxicology (OHT) representative:** Kas Adriaans ([k.j.adriaans\@uu.nl](mailto:k.j.adriaans@uu.nl))
+-   **Veterinary and Comparative Pharmacology (VCP) representative:** André Joubert ([a.j.joubert\@uu.nl](mailto:a.j.joubert@uu.nl))
 
 Other expertise:
 
--   GIS specialists: **Lloyd Roga, Carmel Suchard**
--   Data solution architect and application specialist: **Adam El Kassimi**
+-   **GIS specialists**: Lloyd Roga, Carmel Suchard
+-   **Data solution architect and application specialist**: Adam El Kassimi
 :::
 
 ## UU RDM Support team
@@ -50,7 +50,7 @@ In case you have questions about research data management, please reach out!
 ::: callout-note
 ### Contact details
 
-IRAS Data Management team: [iras_dm\@uu.nl](mailto:iras_dm@uu.nl)
+IRAS Data Management team: see @sec-intro_support_iras
 
 RDM Support team: [info.rdm\@uu.nl](mailto:info.rdm@uu.nl)
 
