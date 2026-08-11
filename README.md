@@ -8,7 +8,7 @@ After you have cloned this repo via `git clone`, you can make adjustments to the
 You can publish the guidelines locally by using the `quarto render --to html` command. This will render them to HTML format only (`quarto render` renders all formats, including e.g. PDF). The output will be written to the `_book` sub-directory of your project.
 
 ### Publishing externally
-You can publically publish a Quarto website by using the `quarto publish gh-pages` command. This is an easy way to publish locally rendered documents and websites. After that, you can check out the book via https://UtrechtUniversity.github.io/iras-data-guidelines/.
+You can publish a (public) Quarto website by using the `quarto publish gh-pages` command. This is an easy way to publish locally rendered documents and websites. After that, you can check out the book via https://UtrechtUniversity.github.io/iras-data-guidelines/.
 
 ## For contributors
 ### Issues
