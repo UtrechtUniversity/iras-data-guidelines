@@ -1,5 +1,5 @@
 # IRAS Research Data Management Guidelines
-This code creates a Quarto book containing the IRAS Research Data Management Guidelines. Once you have gained access to this repo, you can access the guidelines by clicking this link: https://UtrechtUniversity.github.io/iras-data-guidelines/.
+This code creates a Quarto book containing the IRAS Research Data Management Guidelines. You can access the guidelines via: https://UtrechtUniversity.github.io/iras-data-guidelines/.
 
 ## For admins
 After you have cloned this repo via `git clone`, you can make adjustments to the guidelines and push them to this repo. Please check out https://quarto.org/docs/books/ for a quickstart on how to work with Quarto Books.
